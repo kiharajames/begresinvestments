@@ -4,7 +4,7 @@
 <html lang="en" class="no-js">
 
 <head>
-	<title>Project Management | Begres investments</title>
+	<title>Project Management | Begres Investments</title>
 
 	<meta charset="utf-8">
 
@@ -18,159 +18,183 @@
 	<link rel="stylesheet" href="css/strix-assets.min.css">
 	<link rel="stylesheet" type="text/css" href="css/style.css" media="screen">
 
+	<script src="js/strix-plugins.min.js"></script>
+	<script src="js/jquery.themepunch.tools.min.js"></script>
+	<script src="js/jquery.themepunch.revolution.min.js"></script>
+	<script src="js/jquery.appear.js"></script>
+	<script src="js/jquery.countTo.js"></script>
+	<script src="js/script.js"></script>
+
+	<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+	<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+	<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+	<link rel="manifest" href="/site.webmanifest">
+
 </head>
 
 <body>
 
 	<!-- Container -->
 	<div id="container">
-		<!-- Navigation links -->
-		<?php include 'nav.php';?>
-	<!-- End Header -->
+		<?php include 'nav.php'; ?>
 
-	<!-- banner-page-section
+		<!-- banner-page-section 
 			================================================== -->
-	<section class="banner-page-section portfolio-banner">
-		<div class="container">
-			<h1>Check out our portfolio</h1>
-			<p>Recent Projects we have completed</p>
-		</div>
+		<section class="banner-page-section services-banner">
+			<div class="container">
+				<h1>Construction and  project management </h1>
+				<p>Ensure proper flow of your construction works coupled with excellent management.</p>
+			</div>
+		</section>
+		<!-- End banner-page-section -->
+		<br>
+
+		<section class="about-alt-section">
+			<div class="background-stretch">
+				<div class="white-area"></div>
+				<div class="image-area"></div>
+			</div>
+			<div class="container">
+				<div class="row">
+					<div class="col-md-6">
+						<div class="title-section">
+
+							<p>We have built our reputation as
+								a construction
+								company that puts people first.
+								By harnessing the power of relationships between our company,
+								our partners and our clients, we transform landscapes,
+								communities and minds. </p>
+						</div>
+					</div>
+				</div>
+			</div>
+	</div>
+	</div>
 	</section>
-	<!-- End banner-page-section -->
+	<!-- End short section-->
+
+    
 
 
 
 	<!-- portfolio-section
 			================================================== -->
-	<section class="portfolio-section masonry-style fullwidth">
-
-		<div class="portfolio-box iso-call col3">
+	<section class="portfolio-section grid-style fullwidth nospace no-padding-bot">
+		<div class="container">
+			<div class="title-section">
+				<h1>Our Awesome Portfolio</h1>
+				<p> We have been able to do amazing projects, check them out!</p>
+			</div>
+		</div>
+		<div class="portfolio-box iso-call col4">
 			<div class="project-post graphic">
 				<div class="post-gallery">
-					<img src="upload/portfolio/masonry/m1.jpg" alt="">
+					<img src="images/porfolio/villa.jpg" alt="">
 					<div class="hover-box">
-						<a class="zoom" href="upload/portfolio/masonry/m1.jpg"><i class="fa fa-search"></i></a>
+						<div class="inner-hover">
+							<h2><a href="single-project.html">5 Bedroom Villa Design
+								</a></h2>
+							<span>Consists of:
+								Open plan lounge, dining and kitchen family room
+								All bedrooms ensuite inclusive of DSQ
+								Roof top lounge
+								Laundry room and rooftop terrace</span>
+						</div>
 					</div>
-				</div>
-				<div class="post-content">
-					<h2><a href="single-project.html">Aliquam tincidunt</a></h2>
-					<span>Illustrations, Graphics</span>
 				</div>
 			</div>
 			<div class="project-post web-design">
 				<div class="post-gallery">
-					<img src="upload/portfolio/masonry/m2.jpg" alt="">
+					<img src="images/porfolio/bungalow.jpg" alt="">
 					<div class="hover-box">
-						<a class="zoom" href="upload/portfolio/masonry/m2.jpg"><i class="fa fa-search"></i></a>
+						<div class="inner-hover">
+							<h2><a href="single-project.html">3 Bedroom Bungalow design</a></h2>
+							<span>Consists of:
+								Lounge
+								Dining
+								Kitchen
+								Common washrooms
+								2 Bedrooms
+								Master bedroom ensuite</span>
+						</div>
 					</div>
-				</div>
-				<div class="post-content">
-					<h2><a href="single-project.html">Vestibulum auctor dapibus</a></h2>
-					<span>Web-Design</span>
 				</div>
 			</div>
 			<div class="project-post identity motion">
 				<div class="post-gallery">
-					<img src="upload/portfolio/masonry/m3.jpg" alt="">
+					<img src="images/porfolio/hote.jpg" alt="">
 					<div class="hover-box">
-						<a class="zoom" href="upload/portfolio/masonry/m3.jpg"><i class="fa fa-search"></i></a>
+						<div class="inner-hover">
+							<h2><a href="single-project.html">Nunc dignissim</a></h2>
+							<span>Motions, identity</span>
+						</div>
 					</div>
-				</div>
-				<div class="post-content">
-					<h2><a href="single-project.html">Nunc dignissim</a></h2>
-					<span>Motions, identity</span>
 				</div>
 			</div>
 			<div class="project-post graphic">
 				<div class="post-gallery">
-					<img src="upload/portfolio/masonry/m4.jpg" alt="">
+					<img src="images/porfolio/NVILLA2.jpg" alt="">
 					<div class="hover-box">
-						<a class="zoom" href="upload/portfolio/masonry/m4.jpg"><i class="fa fa-search"></i></a>
+						<div class="inner-hover">
+							<h2><a href="single-project.html">Cras ornare tristique</a></h2>
+							<span>Photography</span>
+						</div>
 					</div>
-				</div>
-				<div class="post-content">
-					<h2><a href="single-project.html">Cras ornare tristique</a></h2>
-					<span>Photography</span>
 				</div>
 			</div>
 			<div class="project-post interior">
 				<div class="post-gallery">
-					<img src="upload/portfolio/masonry/m5.jpg" alt="">
+					<img src="images/porfolio/shops.jpg" alt="">
 					<div class="hover-box">
-						<a class="zoom" href="upload/portfolio/masonry/m5.jpg"><i class="fa fa-search"></i></a>
+						<div class="inner-hover">
+							<h2><a href="single-project.html">Praesent placerat risus</a></h2>
+							<span>interior</span>
+						</div>
 					</div>
-				</div>
-				<div class="post-content">
-					<h2><a href="single-project.html">Praesent placerat risus</a></h2>
-					<span>interior</span>
 				</div>
 			</div>
 			<div class="project-post graphic">
 				<div class="post-gallery">
-					<img src="upload/portfolio/masonry/m6.jpg" alt="">
+					<img src="images/porfolio/bungalowsmall.jpg" alt="">
 					<div class="hover-box">
-						<a class="zoom" href="upload/portfolio/masonry/m6.jpg"><i class="fa fa-search"></i></a>
+						<div class="inner-hover">
+							<h2><a href="single-project.html">Vestibulum commodo</a></h2>
+							<span>Illustrations, Graphics</span>
+						</div>
 					</div>
-				</div>
-				<div class="post-content">
-					<h2><a href="single-project.html">Vestibulum commodo</a></h2>
-					<span>Illustrations, Graphics</span>
 				</div>
 			</div>
 			<div class="project-post graphic">
 				<div class="post-gallery">
-					<img src="upload/portfolio/masonry/m7.jpg" alt="">
+					<img src="images/porfolio/mall.jpg" alt="">
 					<div class="hover-box">
-						<a class="zoom" href="upload/portfolio/masonry/m7.jpg"><i class="fa fa-search"></i></a>
+						<div class="inner-hover">
+							<h2><a href="single-project.html">Aliquam tincidunt</a></h2>
+							<span>Illustrations, Graphics</span>
+						</div>
 					</div>
-				</div>
-				<div class="post-content">
-					<h2><a href="single-project.html">Aliquam tincidunt</a></h2>
-					<span>Illustrations, Graphics</span>
 				</div>
 			</div>
 			<div class="project-post web-design">
 				<div class="post-gallery">
-					<img src="upload/portfolio/masonry/m8.jpg" alt="">
+					<img src="images/porfolio/mansion.jpg" alt="">
 					<div class="hover-box">
-						<a class="zoom" href="upload/portfolio/masonry/m8.jpg"><i class="fa fa-search"></i></a>
+						<div class="inner-hover">
+							<h2><a href="single-project.html">Vestibulum auctor dapibus</a></h2>
+							<span>Web-Design</span>
+						</div>
 					</div>
 				</div>
-				<div class="post-content">
-					<h2><a href="single-project.html">Vestibulum auctor dapibus</a></h2>
-					<span>Web-Design</span>
-				</div>
 			</div>
-			<div class="project-post identity motion">
-				<div class="post-gallery">
-					<img src="upload/portfolio/masonry/m9.jpg" alt="">
-					<div class="hover-box">
-						<a class="zoom" href="upload/portfolio/masonry/m9.jpg"><i class="fa fa-search"></i></a>
-					</div>
-				</div>
-				<div class="post-content">
-					<h2><a href="single-project.html">Nunc dignissim</a></h2>
-					<span>Motions, identity</span>
-				</div>
-			</div>
-		</div>
-		<div class="pagination-box">
-			<ul class="pagination-list">
-				<li><a href="#">Prev</a></li>
-				<li><a class="active" href="#">1</a></li>
-				<li><a href="#">2</a></li>
-				<li><a href="#">3</a></li>
-				<li><a href="#">4</a></li>
-				<li><a href="#">5</a></li>
-				<li><a href="#">Next</a></li>
-			</ul>
 		</div>
 	</section>
 	<!-- End portfolio section -->
+	<br>
 
-    <!-- banner-line
+	<!-- banner-line
 			================================================== -->
-		<section class="banner-line-default">
+			<section class="banner-line-default">
 			<div class="container">
 				<div class="row">
 					<div class="col-md-6">
@@ -184,22 +208,102 @@
 		</section>
 		<!-- End banner-line -->
 
+	<!--Go top link -->
+	<a class="go-top" href="#"><i class="fa fa-angle-up"></i></a>
 	<!-- footer
 			================================================== -->
-	<?php include 'footer.php';?>
+	<?php include 'footer.php'; ?>
 	<!-- End footer -->
-
-	</div>
-	<!-- End Container -->
 
 	<!--Go top link -->
 	<a class="go-top" href="#"><i class="fa fa-angle-up"></i></a>
+	<!-- Revolution slider -->
+	<script>
+
+		jQuery(document).ready(function () {
+
+			revapi = jQuery('.tp-banner').show().revolution(
+				{
+					dottedOverlay: "none",
+					delay: 10000,
+					startwidth: 960,
+					startheight: 700,
+					hideThumbs: 200,
+
+					thumbWidth: 100,
+					thumbHeight: 50,
+					thumbAmount: 5,
+
+					navigationType: "none",
+					navigationArrows: "none",
+
+					touchenabled: "on",
+					onHoverStop: "off",
+
+					swipe_velocity: 0.7,
+					swipe_min_touches: 1,
+					swipe_max_touches: 1,
+					drag_block_vertical: false,
+
+					parallax: "mouse",
+					parallaxBgFreeze: "on",
+					parallaxLevels: [7, 4, 3, 2, 5, 4, 3, 2, 1, 0],
+
+					keyboardNavigation: "off",
+
+					navigationHAlign: "center",
+					navigationVAlign: "bottom",
+					navigationHOffset: 0,
+					navigationVOffset: 320,
+					soloArrowLeftHOffset: 260,
+					soloArrowRightHOffset: 260,
+
+					shadow: 0,
+					fullWidth: "off",
+					fullScreen: "on",
+
+					spinner: "spinner4",
+
+					stopLoop: "off",
+					stopAfterLoops: -1,
+					stopAtSlide: -1,
+
+					shuffle: "off",
+
+					autoHeight: "off",
+					forceFullWidth: "off",
 
 
 
-	<script src="js/strix-plugins.min.js"></script>
-	<script src="js/script.js"></script>
+					hideThumbsOnMobile: "off",
+					hideNavDelayOnMobile: 1500,
+					hideBulletsOnMobile: "off",
+					hideArrowsOnMobile: "off",
+					hideThumbsUnderResolution: 0,
 
+					hideSliderAtLimit: 0,
+					hideCaptionAtLimit: 0,
+					hideAllCaptionAtLilmit: 0,
+					startWithSlide: 0,
+					fullScreenOffsetContainer: ".header"
+				});
+
+			var slideThumb = $('.slide-thumbs');
+
+			slideThumb.on('click', function (event) {
+				event.preventDefault();
+				var btn = $(this);
+				revapi.revshowslide(btn.data('slide'));
+
+			});
+			// revapi.bind("revolution.slide.onchange", function (e, data) {
+			// 	slideThumb.parent('li').removeClass('active');
+			// 	$('#slidethumb' + data.slideIndex).parent('li').addClass('active');
+			// });
+
+		});	//ready
+
+	</script>
 </body>
 
 </html>

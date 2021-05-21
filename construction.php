@@ -38,7 +38,7 @@
 	<div id="container">
 		<!-- Header
 		    ================================================== -->
-		<?php include 'nav.php'; ?>
+		<?php include 'nav.php';?>
 		<!-- End Header -->
 
 		<!-- banner-page-section
@@ -50,7 +50,121 @@
 			</div>
 		</section>
 		<!-- End banner-page-section -->
+
+		<!-- construct-services-section
+			================================================== -->
+			<section class="construct-services-section">
+			<div class="container">
+				<div class="construct-services-title">
+					<h1>Looking For a Quality Contractor <br> For Your Next Project?</h1>
+					<p>We are here to guide you all through your project and ensure successful completion
+						<br> Work with out and realsize your dreams coming to reality
+					</p>
+					<!-- <a class="button-two" href="#">Check our Projects</a>
+					<a class="button-one" href="#">Get a Quote</a> -->
+				</div>
+			</div>
+
+			<div class="construct-services-box">
+				<div class="owl-wrapper">
+					<div class="owl-carousel" data-num="4">
+
+						<div class="item">
+							<div class="services-post">
+								<img src="images/products/architecture.jpg" alt="">
+								<div class="services-content">
+									<h2><a>Architectural Plans</a></h2>
+									<p>Donec nec justo eget felis facilisis fermentum. Aliquam porttitor mauris sit amet
+										orci.
+										Aenean
+										dignissim pellentesque felis.</p>
+									<!-- <ul class="serv-links">
+										<li><a href="#">Aliquam tincidunt mauris eu risus</a></li>
+										<li><a href="#">Vestibulum auctor</a></li>
+										<li><a href="#">Nunc dignissim risus id metus</a></li>
+									</ul> -->
+								</div>
+							</div>
+						</div>
+
+						<div class="item">
+							<div class="services-post">
+								<img src="images/products/Conman.jpg" alt="">
+								<div class="services-content">
+									<h2><a>Civil & Structural Design</a></h2>
+									<p>Donec nec justo eget felis facilisis fermentum. Aliquam porttitor mauris sit amet
+										orci.
+										Aenean
+										dignissim pellentesque felis.</p>
+									<!-- <ul class="serv-links">
+										<li><a href="#">Aliquam tincidunt mauris eu risus</a></li>
+										<li><a href="#">Vestibulum auctor</a></li>
+										<li><a href="#">Nunc dignissim risus id metus</a></li>
+									</ul> -->
+								</div>
+							</div>
+						</div>
+
+						<div class="item">
+							<div class="services-post">
+								<img src="images/products/manage.jpg" alt="">
+								<div class="services-content">
+									<h2><a>Construction & Project Management</a></h2>
+									<p>Donec nec justo eget felis facilisis fermentum. Aliquam porttitor mauris sit amet
+										orci.
+										Aenean
+										dignissim pellentesque felis.</p>
+									<!-- <ul class="serv-links">
+										<li><a href="#">Aliquam tincidunt mauris eu risus</a></li>
+										<li><a href="#">Vestibulum auctor</a></li>
+										<li><a href="#">Nunc dignissim risus id metus</a></li>
+									</ul> -->
+								</div>
+							</div>
+						</div>
+
+						<div class="item">
+							<div class="services-post">
+								<img src="images/products/residential.jpg" alt="">
+								<div class="services-content">
+									<h2><a>Residential Construction</a></h2>
+									<p>Donec nec justo eget felis facilisis fermentum. Aliquam porttitor mauris sit amet
+										orci.
+										Aenean
+										dignissim pellentesque felis.</p>
+									<!-- <ul class="serv-links">
+										<li><a href="#">Aliquam tincidunt mauris eu risus</a></li>
+										<li><a href="#">Vestibulum auctor</a></li>
+										<li><a href="#">Nunc dignissim risus id metus</a></li>
+									</ul> -->
+								</div>
+							</div>
+						</div>
+
+						<div class="item">
+							<div class="services-post">
+								<img src="images/products/commercial.jpg" alt="">
+								<div class="services-content">
+									<h2><a>Commercial Construction</a></h2>
+									<p>Donec nec justo eget felis facilisis fermentum. Aliquam porttitor mauris sit amet
+										orci.
+										Aenean dignissim pellentesque felis.</p>
+									<!-- <ul class="serv-links">
+										<li><a href="#">Aliquam tincidunt mauris eu risus</a></li>
+										<li><a href="#">Vestibulum auctor</a></li>
+										<li><a href="#">Nunc dignissim risus id metus</a></li>
+									</ul> -->
+								</div>
+							</div>
+						</div>
+
+					</div>
+				</div>
+			</div>
+		</section>
+		<!-- End construct-services section -->
 <br><br>
+
     		<!-- feature-section3
 			================================================== -->
 		<section class="features-section3">
