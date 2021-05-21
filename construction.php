@@ -43,7 +43,7 @@
 
 		<!-- banner-page-section
 			================================================== -->
-		<section class="banner-page-section services-banner">
+		<section class="banner-page-section design-banner">
 			<div class="container">
 				<h1>Check out </h1>
 				<p>our wonderful &amp; designs</p>
@@ -74,10 +74,10 @@
 								<img src="images/products/architecture.jpg" alt="">
 								<div class="services-content">
 									<h2><a>Architectural Plans</a></h2>
-									<p>Donec nec justo eget felis facilisis fermentum. Aliquam porttitor mauris sit amet
+									<!--<p>Donec nec justo eget felis facilisis fermentum. Aliquam porttitor mauris sit amet
 										orci.
 										Aenean
-										dignissim pellentesque felis.</p>
+										dignissim pellentesque felis.</p>-->
 									<!-- <ul class="serv-links">
 										<li><a href="#">Aliquam tincidunt mauris eu risus</a></li>
 										<li><a href="#">Vestibulum auctor</a></li>
@@ -92,10 +92,10 @@
 								<img src="images/products/Conman.jpg" alt="">
 								<div class="services-content">
 									<h2><a>Civil & Structural Design</a></h2>
-									<p>Donec nec justo eget felis facilisis fermentum. Aliquam porttitor mauris sit amet
+									<!--<p>Donec nec justo eget felis facilisis fermentum. Aliquam porttitor mauris sit amet
 										orci.
 										Aenean
-										dignissim pellentesque felis.</p>
+										dignissim pellentesque felis.</p>-->
 									<!-- <ul class="serv-links">
 										<li><a href="#">Aliquam tincidunt mauris eu risus</a></li>
 										<li><a href="#">Vestibulum auctor</a></li>
@@ -110,10 +110,10 @@
 								<img src="images/products/manage.jpg" alt="">
 								<div class="services-content">
 									<h2><a>Construction & Project Management</a></h2>
-									<p>Donec nec justo eget felis facilisis fermentum. Aliquam porttitor mauris sit amet
+									<!--<p>Donec nec justo eget felis facilisis fermentum. Aliquam porttitor mauris sit amet
 										orci.
 										Aenean
-										dignissim pellentesque felis.</p>
+										dignissim pellentesque felis.</p>-->
 									<!-- <ul class="serv-links">
 										<li><a href="#">Aliquam tincidunt mauris eu risus</a></li>
 										<li><a href="#">Vestibulum auctor</a></li>
@@ -128,10 +128,10 @@
 								<img src="images/products/residential.jpg" alt="">
 								<div class="services-content">
 									<h2><a>Residential Construction</a></h2>
-									<p>Donec nec justo eget felis facilisis fermentum. Aliquam porttitor mauris sit amet
+									<!--<p>Donec nec justo eget felis facilisis fermentum. Aliquam porttitor mauris sit amet
 										orci.
 										Aenean
-										dignissim pellentesque felis.</p>
+										dignissim pellentesque felis.</p>-->
 									<!-- <ul class="serv-links">
 										<li><a href="#">Aliquam tincidunt mauris eu risus</a></li>
 										<li><a href="#">Vestibulum auctor</a></li>
@@ -146,9 +146,9 @@
 								<img src="images/products/commercial.jpg" alt="">
 								<div class="services-content">
 									<h2><a>Commercial Construction</a></h2>
-									<p>Donec nec justo eget felis facilisis fermentum. Aliquam porttitor mauris sit amet
+									<!--<p>Donec nec justo eget felis facilisis fermentum. Aliquam porttitor mauris sit amet
 										orci.
-										Aenean dignissim pellentesque felis.</p>
+										Aenean dignissim pellentesque felis.</p>-->
 									<!-- <ul class="serv-links">
 										<li><a href="#">Aliquam tincidunt mauris eu risus</a></li>
 										<li><a href="#">Vestibulum auctor</a></li>
@@ -170,7 +170,7 @@
 		<section class="features-section3">
 
 <div class="image-place">
-    <img src="upload/others/ser1.jpg" alt="">
+    <img src="images/commercial.jpg" alt="">
 </div>
 
 <div class="features-box">

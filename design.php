@@ -30,12 +30,12 @@
 	<!-- Container -->
 	<div id="container">
 		<!-- Navigation links -->
-		<?php include 'nav.php'; ?>
+		<?php include 'nav.php';?>
 	<!-- End Header -->
 
-	<!-- banner-page-section 
+	<!-- banner-page-section
 			================================================== -->
-	<section class="banner-page-section services-banner">
+	<section class="banner-page-section design-banner">
 		<div class="container">
 			<h1>Check out </h1>
 			<p>our wonderful &amp; designs</p>
@@ -43,7 +43,7 @@
 	</section>
 	<!-- End banner-page-section -->
 
-	<!--page-depth-section 
+	<!--page-depth-section
 			================================================== -->
 	<!--<section class="page-depth-section">
 		<div class="container">
@@ -56,9 +56,9 @@
 	</section>-->
 	<!-- End page-depth-section -->
 
-	<!-- about-section 
+	<!-- about-section
 			================================================== -->
-	<section class="about-section second-style">
+			<section class="about-section second-style">
 		<div class="container">
 			<div class="title-section">
 				<h1>What makes our design distintive from the rest</h1>
@@ -71,8 +71,8 @@
 						<div class="about-post">
 							<a href="#"><i class="fa fa-cogs"></i></a>
 							<div class="about-post-content">
-								<h2><a href="#">Ultra Responsive</a></h2>
-								<p>Donec odio. Quisque volutpat mattis eros. Nullam malesuada </p>
+								<h2><a href="#">Durability</a></h2>
+								<p>Our designs are created in a way that we make sure that the structures created out of them are long lasting </p>
 							</div>
 						</div>
 					</div>
@@ -81,8 +81,8 @@
 						<div class="about-post">
 							<a href="#"><i class="fa fa-life-ring"></i></a>
 							<div class="about-post-content">
-								<h2><a href="#">Support &amp; Updates</a></h2>
-								<p>Quisque volutpat mattis eros. Nullam malesuada erat ut turpis. </p>
+								<h2><a href="#">Authenticity</a></h2>
+								<p>Our desingn team have a high degree of creatiity and originality thus providing solutions that are unique to the eye.  </p>
 							</div>
 						</div>
 					</div>
@@ -91,53 +91,51 @@
 						<div class="about-post">
 							<a href="#"><i class="fa fa-desktop"></i></a>
 							<div class="about-post-content">
-								<h2><a href="#">Retina Ready</a></h2>
-								<p>Donec nec justo eget felis facilisis fermentum. </p>
+								<h2><a href="#">Beauty</a></h2>
+								<p> Our architectural designs are breath taking and appealing to the eye.</p>
 							</div>
 						</div>
 					</div>
 
 				</div>
-				<div class="row">
 
-					<div class="col-md-4">
-						<div class="about-post">
-							<a href="#" class="active"><i class="fa fa-line-chart"></i></a>
-							<div class="about-post-content">
-								<h2><a href="#">SEO Friendly</a></h2>
-								<p>Donec odio. Quisque volutpat mattis eros. Nullam malesuada </p>
-							</div>
-						</div>
-					</div>
-
-					<div class="col-md-4">
-						<div class="about-post">
-							<a href="#"><i class="fa fa-trophy"></i></a>
-							<div class="about-post-content">
-								<h2><a href="#">Award Winning Design</a></h2>
-								<p>Quisque volutpat mattis eros. Nullam malesuada erat ut turpis. </p>
-							</div>
-						</div>
-					</div>
-
-					<div class="col-md-4">
-						<div class="about-post">
-							<a href="#"><i class="fa fa-magic"></i></a>
-							<div class="about-post-content">
-								<h2><a href="#">Trendy Design</a></h2>
-								<p>Donec nec justo eget felis facilisis fermentum. </p>
-							</div>
-						</div>
-					</div>
-
-				</div>
 			</div>
 
 		</div>
 	</section>
 	<!-- End about section -->
 
-	<!-- services-section2 
+		<!-- about-alt
+			================================================== -->
+			<section class="about-alt-section">
+			<div class="background-stretch">
+				<div class="white-area"></div>
+				<div class="image-area"></div>
+			</div>
+			<div class="container">
+				<div class="row">
+					<div class="col-md-6">
+						<div class="title-section">
+							<h1>Our designs</h1>
+							<p>Our design services aim at providing
+								solutions that adhere to good architectural standards of
+								durability, functionality and aesthetics. Our designs include
+								resiential, commercial, institutional and industrial
+								designs in architectural, landscape, structural, civil and interior design.
+							 </p>
+						</div>
+					</div>
+					<div class="col-md-6">
+						<div class="image-holder">
+							<!-- <img src="upload/business/slide1.png" alt=""> -->
+						</div>
+					</div>
+				</div>
+			</div>
+		</section>
+		<!-- End about-alt -->
+
+	<!-- services-section2
 			================================================== -->
 	<!--<section class="services-section2">
 		<div class="container">
@@ -173,7 +171,7 @@
 	</section>-->
 	<!-- End services-section2 -->
 
-	<!-- feature-section3 
+	<!-- feature-section3
 			================================================== -->
 	<!--<section class="features-section3">
 
@@ -296,9 +294,9 @@
 	<!--Go top link -->
 	<a class="go-top" href="#"><i class="fa fa-angle-up"></i></a>
 
-	<!-- footer 
+	<!-- footer
 			================================================== -->
-	<?php include 'footer.php'; ?>
+	<?php include 'footer.php';?>
 	<!-- End footer -->
 	</div>
 	<!-- End Container -->
@@ -306,7 +304,7 @@
 	<!--Go top link -->
 	<a class="go-top" href="#"><i class="fa fa-angle-up"></i></a>
 
-	
+
 
 	<script src="js/strix-plugins.min.js"></script>
 	<script src="js/script.js"></script>

@@ -28,7 +28,7 @@
 
 		<!-- banner-page-section 
 			================================================== -->
-		<section class="banner-page-section about-banner">
+		<section class="banner-page-section team-banner">
 			<div class="container">
 				<h1>Meet the team</h1>
 				<p>We're a super motivated young team</p>

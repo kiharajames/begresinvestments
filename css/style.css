@@ -9994,12 +9994,33 @@ button.mfp-arrow {
 /* =  about pages
 /*-------------------------------------------------*/
 .banner-page-section.about-banner {
-  background: url('../upload/banners/back6.jpg') center center;
+  background: url('../images/construction.jpg') center center;
   background-size: cover;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
 }
+
+/* Special case for team */
+.banner-page-section.team-banner {
+  background: url('../images/team.jpg') center center;
+  background-size: cover;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+}
+/* End of special case */
+
+/* Special case for design */
+.banner-page-section.design-banner {
+  background: url('../images/mngt.jpg') center center;
+  background-size: cover;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+}
+/* End of special case */
+
 section.about-us-section {
   padding: 80px 0;
 }
@@ -10082,7 +10103,7 @@ section.about-us-section .features-items .feature-post h2 {
 }
 section.about-us-section.black-style {
   padding-top: 100px;
-  background: url('../upload/banners/banner1.jpg') center center fixed;
+  background: url('../images/aboutus.jpg') center center fixed;
   background-size: cover;
   -webkit-background-size: cover;
   -moz-background-size: cover;
