@@ -73,8 +73,9 @@
                                     <h2>More Links</h2>
                                     <ul class="links-list">
                                         <li><a href="index.php">Home</a></li>
-                                        <li><a href="arch.php">Architectural and engineering design</a></li>
-                                        <li><a href="management.php">Construction and project management</a></li>
+                                        <li><a href="constuction.php">Construction</a></li>
+                                        <li><a href="design.php">Design</a></li>
+                                        <li><a href="management.php">Project management</a></li>
                                         <li><a href="https://www.shulevans.com">Shulevans</a></li>
                                         <li><a href="https://www.urbangreens.co.ke">Urbangreens</a></li>
                                         <li><a href="team.php">Team</a></li>

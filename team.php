@@ -36,9 +36,6 @@
 		</section>
 		<!-- End banner-page-section -->
 
-
-
-
 		<!-- team-section
 			================================================== -->
 		<section class="team-section2">
@@ -251,64 +248,6 @@
 			</div>
 		</section>
 		<!-- End about-us section -->
-
-		<!-- Client-list-section
-			================================================== -->
-		<section class="client-list-section">
-			<div class="container">
-				<div class="title-section">
-					<h1>Our Best Clients</h1>
-					<p>Aenean dignissim pellentesque felis.</p>
-				</div>
-				<div class="client-list-box owl-wrapper">
-
-					<div class="owl-carousel" data-num="6">
-
-						<div class="item">
-							<a href="#"><img src="images/clients/1.png" alt=""></a>
-						</div>
-
-						<div class="item">
-							<a href="#"><img src="images/clients/2.png" alt=""></a>
-						</div>
-
-						<div class="item">
-							<a href="#"><img src="images/clients/3.png" alt=""></a>
-						</div>
-
-						<div class="item">
-							<a href="#"><img src="images/clients/4.png" alt=""></a>
-						</div>
-
-						<div class="item">
-							<a href="#"><img src="images/clients/5.png" alt=""></a>
-						</div>
-
-						<div class="item">
-							<a href="#"><img src="images/clients/6.png" alt=""></a>
-						</div>
-
-						<div class="item">
-							<a href="#"><img src="images/clients/1.png" alt=""></a>
-						</div>
-
-						<div class="item">
-							<a href="#"><img src="images/clients/2.png" alt=""></a>
-						</div>
-
-						<div class="item">
-							<a href="#"><img src="images/clients/3.png" alt=""></a>
-						</div>
-
-						<div class="item">
-							<a href="#"><img src="images/clients/4.png" alt=""></a>
-						</div>
-
-					</div>
-				</div>
-			</div>
-		</section>
-		<!-- End Client-list-section -->
 
 		<!-- footer 
 			================================================== -->

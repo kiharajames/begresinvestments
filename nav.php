@@ -11,20 +11,16 @@
 							<span class="icon-bar"></span>
 							<span class="icon-bar"></span>
 						</button>
-						<a class="navbar-brand" href="index.html"><img src="images/begresLogosmall-31.png" alt=""></a>
+						<a class="navbar-brand" href="index.php"><img src="images/begresLogosmall-31.png" alt=""></a>
 					</div>
 
 					<!-- Collect the nav links, forms, and other content for toggling -->
 					<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
 						<ul class="nav navbar-nav navbar-right">
-							<li><a class="active" href="index.php">Home</a></li>
-							
-							<li class="drop"><a href="#">Services</a>
-								<ul class="dropdown">
-									<li><a href="arch.php">Architectural and engineering design</a></li>
-									<li><a href="management.php">Construction and project management</a></li>
-								</ul>
-							</li>
+							<!--<li><a class="active" href="index.php">Home</a></li>-->
+							<li><a href="design.php">Design </a></li>
+							<li><a href="construction.php">Construction </a></li>
+							<li><a href="management.php">Project Management </a></li>
 
 							<li class="drop"><a href="#">Technology</a>
 								<ul class="dropdown">
