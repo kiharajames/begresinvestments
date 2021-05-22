@@ -10021,6 +10021,15 @@ button.mfp-arrow {
 }
 /* End of special case */
 
+/* Special case for management */
+.banner-page-section.management-banner {
+  background: url('../images/commercial.jpg') center center;
+  background-size: cover;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+}
+/* End of special case */
 section.about-us-section {
   padding: 80px 0;
 }

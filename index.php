@@ -170,8 +170,7 @@
 					data-customin="x:0;y:0;z:0;rotationX:0;rotationY:0;rotationZ:0;scaleX:0;scaleY:0;skewX:0;skewY:0;opacity:0;transformPerspective:600;transformOrigin:50% 50%;"
 					data-speed="500" data-start="1800" data-easing="Power3.easeInOut" data-splitin="none"
 					data-splitout="none" data-elementdelay="0.05" data-endelementdelay="0.1"
-					style="z-index: 7; white-space: nowrap;">We believe that Need is the primary condition
-					for design.
+					style="z-index: 7; white-space: nowrap;">Get that residential or commercial building standing in no time
 				</div>
 
 			</li><!-- SLIDE  -->

@@ -40,7 +40,7 @@
 
 		<!-- banner-page-section 
 			================================================== -->
-		<section class="banner-page-section services-banner">
+		<section class="banner-page-section management-banner">
 			<div class="container">
 				<h1>Project management </h1>
 				<p>Ensure proper flow of your construction works coupled with excellent management.</p>
