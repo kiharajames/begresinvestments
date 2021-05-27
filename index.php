@@ -276,21 +276,20 @@
 					<div class="col-md-6">
 						<div class="title-section">
 							<h1>About Us</h1>
-							<p>Begres Investments LLC is an engineering & technology Solutions Company headquartered in
-							Nairobi, Kenya founded in the year 2020. The company designs, develops and builds integrated
+							<p>Begres Investments LLC is an engineering & technology Solutions Company. It was founded in 2020 with its headquaters in Nairobi. The company designs, develops and builds integrated
 							engineering & technology products with the aim of bridging human & business infrastructure
 							deficits in Africa. </p>
 						</div>
 						<div class="about-box">
 							<div class="about-post">
-								<a href="#"><i class="fa fa-globe"></i></a>
+								<a href="#"><i class="fas fa-eye"></i></a>
 								<div class="about-post-content">
 									<h2>Our Vision</h2>
 									<p>To be a global leader in exploring superior value while creating the future </p>
 								</div>
 							</div>
 							<div class="about-post">
-								<a href="#"><i class="fa fa-magic"></i></a>
+								<a href="#"><i class="fas fa-compass"></i></a>
 								<div class="about-post-content">
 									<h2>Our Mission</h2>
 									<p>Every day we explore, creating the most advanced and globally competitive
@@ -300,7 +299,7 @@
 								</div>
 							</div>
 							<div class="about-post">
-								<a href="#"><i class="fa fa-font"></i></a>
+								<a href="#"><i class="fas fa-globe"></i></a>
 								<div class="about-post-content">
 									<h2>Our Core Values & Culture</h2>
 									<p>Consistent Innovation & Long-Term Value Creation</p><br>
@@ -334,13 +333,13 @@
 							<div class="about-post">
 								<a href="#"><i class="fa fa-cogs"></i></a>
 								<div class="about-post-content">
-									<h2><a href="#">Design and Build Solutions</a></h2>
-									<p>Our commitment is to create futuristic spaces that inspire life.</p>
+									<h2><a href="#">Engineering solutions</a></h2>
+									<p>Our commitment is to create futuristic spaces that inspire life. Areas under design include but are not limited to design, project management and construction</p>
 								</div>
 							</div>
 						</div>
 
-						<div class="col-md-4">
+						<!--<div class="col-md-4">
 							<div class="about-post">
 								<a href="#"><i class="fa fa-life-ring"></i></a>
 								<div class="about-post-content">
@@ -348,14 +347,14 @@
 									<p>Encouraging more of technology in every company and less of tech companies.</p>
 								</div>
 							</div>
-						</div>
+						</div>-->
 
 						<div class="col-md-4">
 							<div class="about-post">
 								<a href="#"><i class="fa fa-desktop"></i></a>
 								<div class="about-post-content">
 									<h2><a href="#">Technology Solutions</a></h2>
-									<p>Our aspiration is to always match capital to opportunities. </p>
+									<p>Encouraging more of technology in every company and less of tech companies </p>
 								</div>
 							</div>
 						</div>
@@ -417,7 +416,7 @@
 					<div class="col-md-6">
 						<div class="title-section">
 							<h1>What we do</h1>
-							<p>Begres is focused on delivering construction projects from onset to finish</p>
+							<p>Begres is focused on delivering projects from the onset to the finish while ensuring quality value for money and investment.</p>
 						</div>
 
 						<div class="accordion-box">
@@ -427,7 +426,7 @@
 									<h2>Who We Are</h2>
 								</div>
 								<div class="accord-content">
-									<p>We are a team with vast experience in different areas that works together to see
+									<p>We are a team with vast experiences in different fields that works together to see to
 										the success of your projects</p>
 								</div>
 							</div>
@@ -438,7 +437,7 @@
 									<h2>What We Do </h2>
 								</div>
 								<div class="accord-content">
-									<p>We design, execute and manage your projects</p>
+									<p>We think through, plan, design, execute, implement and manage your projects</p>
 								</div>
 							</div>
 
@@ -450,8 +449,8 @@
 								<div class="accord-content">
 									<p>When you choose Begress investments, you can rest assured of unmatched customer
 										service and satisfaction. Our priority
-										number one is to offer top-rated build, design, business solutions, property
-										investments and the related services.</p>
+										number one is to offer top-notch build, design, business solutions, property
+										investments and other related services.</p>
 								</div>
 							</div>
 
@@ -463,115 +462,7 @@
 		<!-- End what-we-do -->
 		<!-- portfolio-section
 			================================================== -->
-			<section class="portfolio-section grid-style fullwidth nospace no-padding-bot">
-			<div class="container">
-				<div class="title-section">
-					<h1>Our Awesome Portfolio</h1>
-					<p> We have been able to do amazing projects, check them out!</p>
-				</div>
-			</div>
-			<div class="portfolio-box iso-call col4">
-				<div class="project-post graphic">
-					<div class="post-gallery">
-						<img src="images/porfolio/villa.jpg" alt="">
-						<div class="hover-box">
-							<div class="inner-hover">
-								<h2><a href="single-project.html">5 Bedroom Villa Design
-									</a></h2>
-								<span>Consists of:
-									Open plan lounge, dining and kitchen family room
-									All bedrooms ensuite inclusive of DSQ
-									Roof top lounge
-									Laundry room and rooftop terrace</span>
-							</div>
-						</div>
-					</div>
-				</div>
-				<div class="project-post web-design">
-					<div class="post-gallery">
-						<img src="images/porfolio/bungalow.jpg" alt="">
-						<div class="hover-box">
-							<div class="inner-hover">
-								<h2><a href="single-project.html">3 Bedroom Bungalow design</a></h2>
-								<span>Consists of:
-									Lounge
-									Dining
-									Kitchen
-									Common washrooms
-									2 Bedrooms
-									Master bedroom ensuite</span>
-							</div>
-						</div>
-					</div>
-				</div>
-				<div class="project-post identity motion">
-					<div class="post-gallery">
-						<img src="images/porfolio/hote.jpg" alt="">
-						<div class="hover-box">
-							<div class="inner-hover">
-								<h2><a href="single-project.html">Nunc dignissim</a></h2>
-								<span>Motions, identity</span>
-							</div>
-						</div>
-					</div>
-				</div>
-				<div class="project-post graphic">
-					<div class="post-gallery">
-						<img src="images/porfolio/NVILLA2.jpg" alt="">
-						<div class="hover-box">
-							<div class="inner-hover">
-								<h2><a href="single-project.html">Cras ornare tristique</a></h2>
-								<span>Photography</span>
-							</div>
-						</div>
-					</div>
-				</div>
-				<div class="project-post interior">
-					<div class="post-gallery">
-						<img src="images/porfolio/shops.jpg" alt="">
-						<div class="hover-box">
-							<div class="inner-hover">
-								<h2><a href="single-project.html">Praesent placerat risus</a></h2>
-								<span>interior</span>
-							</div>
-						</div>
-					</div>
-				</div>
-				<div class="project-post graphic">
-					<div class="post-gallery">
-						<img src="images/porfolio/bungalowsmall.jpg" alt="">
-						<div class="hover-box">
-							<div class="inner-hover">
-								<h2><a href="single-project.html">Vestibulum commodo</a></h2>
-								<span>Illustrations, Graphics</span>
-							</div>
-						</div>
-					</div>
-				</div>
-				<div class="project-post graphic">
-					<div class="post-gallery">
-						<img src="images/porfolio/mall.jpg" alt="">
-						<div class="hover-box">
-							<div class="inner-hover">
-								<h2><a href="single-project.html">Aliquam tincidunt</a></h2>
-								<span>Illustrations, Graphics</span>
-							</div>
-						</div>
-					</div>
-				</div>
-				<div class="project-post web-design">
-					<div class="post-gallery">
-						<img src="images/porfolio/mansion.jpg" alt="">
-						<div class="hover-box">
-							<div class="inner-hover">
-								<h2><a href="single-project.html">Vestibulum auctor dapibus</a></h2>
-								<span>Web-Design</span>
-							</div>
-						</div>
-					</div>
-				</div>
-			</div>
-		</section>
+			<?php include 'mini_gallery.php'; ?>
 		<!-- End portfolio section -->
 
 		<!-- statistic-section
@@ -622,7 +513,6 @@
 					<div class="col-md-6">
 						<div class="title-section">
 							<h1>Our Skills</h1>
-							<p>Aliquam porttitor mauris sit amet orci. </p>
 						</div>
 						<div class="skills-box">
 							<div class="skills-progress">
@@ -743,5 +633,6 @@
 		});	//ready
 
 	</script>
+<script src="https://kit.fontawesome.com/b5d01810a2.js" crossorigin="anonymous"></script>
 </body>
 </html>

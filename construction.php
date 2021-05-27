@@ -43,10 +43,10 @@
 
 		<!-- banner-page-section
 			================================================== -->
-		<section class="banner-page-section design-banner">
+		<section class="banner-page-section construction-banner">
 			<div class="container">
-				<h1>Check out </h1>
-				<p>our wonderful &amp; designs</p>
+				<h1>Construction </h1>
+				<p>Let's put up that structure for you</p>
 			</div>
 		</section>
 		<!-- End banner-page-section -->
@@ -57,8 +57,7 @@
 			<div class="container">
 				<div class="construct-services-title">
 					<h1>Looking For a Quality Contractor <br> For Your Next Project?</h1>
-					<p>We are here to guide you all through your project and ensure successful completion
-						<br> Work with out and realsize your dreams coming to reality
+					<p>We are here to guide you all through your project and ensure successful completion. Work with our multi-skilled, multi-talented, hardworking and dedicated team of professionals to make your dream a reality.
 					</p>
 					<!-- <a class="button-two" href="#">Check our Projects</a>
 					<a class="button-one" href="#">Get a Quote</a> -->
@@ -167,7 +166,7 @@
 
     		<!-- feature-section3
 			================================================== -->
-		<section class="features-section3">
+		<!--<section class="features-section3">
 
 <div class="image-place">
     <img src="images/commercial.jpg" alt="">
@@ -183,7 +182,7 @@
 								a construction
 								company that puts people first.
 								By harnessing the power of relationships between our company,
-								our partners and our clients, we transform landscapes,
+								our partners and our clients, we transform the landscapes,
 								communities and minds. </p>
                 </div>
                 <div class="features-items">
@@ -220,119 +219,11 @@
 
 </div>
 
-</section>
+</section>-->
 <!-- End feature section3 -->
 	<!-- portfolio-section
 			================================================== -->
-	<section class="portfolio-section grid-style fullwidth nospace no-padding-bot">
-		<div class="container">
-			<div class="title-section">
-				<h1>Our Awesome Portfolio</h1>
-				<p> We have been able to do amazing projects, check them out!</p>
-			</div>
-		</div>
-		<div class="portfolio-box iso-call col4">
-			<div class="project-post graphic">
-				<div class="post-gallery">
-					<img src="images/porfolio/villa.jpg" alt="">
-					<div class="hover-box">
-						<div class="inner-hover">
-							<h2><a href="single-project.html">5 Bedroom Villa Design
-								</a></h2>
-							<span>Consists of:
-								Open plan lounge, dining and kitchen family room
-								All bedrooms ensuite inclusive of DSQ
-								Roof top lounge
-								Laundry room and rooftop terrace</span>
-						</div>
-					</div>
-				</div>
-			</div>
-			<div class="project-post web-design">
-				<div class="post-gallery">
-					<img src="images/porfolio/bungalow.jpg" alt="">
-					<div class="hover-box">
-						<div class="inner-hover">
-							<h2><a href="single-project.html">3 Bedroom Bungalow design</a></h2>
-							<span>Consists of:
-								Lounge
-								Dining
-								Kitchen
-								Common washrooms
-								2 Bedrooms
-								Master bedroom ensuite</span>
-						</div>
-					</div>
-				</div>
-			</div>
-			<div class="project-post identity motion">
-				<div class="post-gallery">
-					<img src="images/porfolio/hote.jpg" alt="">
-					<div class="hover-box">
-						<div class="inner-hover">
-							<h2><a href="single-project.html">Nunc dignissim</a></h2>
-							<span>Motions, identity</span>
-						</div>
-					</div>
-				</div>
-			</div>
-			<div class="project-post graphic">
-				<div class="post-gallery">
-					<img src="images/porfolio/NVILLA2.jpg" alt="">
-					<div class="hover-box">
-						<div class="inner-hover">
-							<h2><a href="single-project.html">Cras ornare tristique</a></h2>
-							<span>Photography</span>
-						</div>
-					</div>
-				</div>
-			</div>
-			<div class="project-post interior">
-				<div class="post-gallery">
-					<img src="images/porfolio/shops.jpg" alt="">
-					<div class="hover-box">
-						<div class="inner-hover">
-							<h2><a href="single-project.html">Praesent placerat risus</a></h2>
-							<span>interior</span>
-						</div>
-					</div>
-				</div>
-			</div>
-			<div class="project-post graphic">
-				<div class="post-gallery">
-					<img src="images/porfolio/bungalowsmall.jpg" alt="">
-					<div class="hover-box">
-						<div class="inner-hover">
-							<h2><a href="single-project.html">Vestibulum commodo</a></h2>
-							<span>Illustrations, Graphics</span>
-						</div>
-					</div>
-				</div>
-			</div>
-			<div class="project-post graphic">
-				<div class="post-gallery">
-					<img src="images/porfolio/mall.jpg" alt="">
-					<div class="hover-box">
-						<div class="inner-hover">
-							<h2><a href="single-project.html">Aliquam tincidunt</a></h2>
-							<span>Illustrations, Graphics</span>
-						</div>
-					</div>
-				</div>
-			</div>
-			<div class="project-post web-design">
-				<div class="post-gallery">
-					<img src="images/porfolio/mansion.jpg" alt="">
-					<div class="hover-box">
-						<div class="inner-hover">
-							<h2><a href="single-project.html">Vestibulum auctor dapibus</a></h2>
-							<span>Web-Design</span>
-						</div>
-					</div>
-				</div>
-			</div>
-		</div>
-	</section>
+	<?php include 'mini_gallery.php';?>
 	<!-- End portfolio section -->
 
 	<!--Go top link -->

@@ -28,7 +28,7 @@
 
 	<!-- banner-page-section 
 			================================================== -->
-	<section class="banner-page-section product-banner">
+	<section class="banner-page-section urban-banner">
 		<div class="container">
 			<h1>Urban greens</h1>
 			<p>Connecting you to good food</p>
@@ -49,29 +49,29 @@
 							<ul class="other-products">
 								<li>
 									<a href="#" data-image="upload/shop/single.jpg"><img alt=""
-											src="upload/shop/t1.jpg"></a>
+											src="images/shamba.jpg"></a>
 								</li>
 								<li>
 									<a href="#" data-image="upload/shop/single2.jpg"><img alt=""
-											src="upload/shop/t2.jpg"></a>
+											src="images/close.jpg"></a>
 								</li>
 								<li>
 									<a href="#" data-image="upload/shop/single3.jpg"><img alt=""
-											src="upload/shop/t3.jpg"></a>
+											src="images/vegetables.jpg"></a>
 								</li>
 								<li>
 									<a href="#" data-image="upload/shop/single4.jpg"><img alt=""
-											src="upload/shop/t4.jpg"></a>
+											src="images/cabbage.jpg"></a>
 								</li>
 							</ul>
 							<div class="image-holder">
-								<img alt="" src="upload/shop/single.jpg">
+								<img alt="" src="images/lettuce.jpg">
 							</div>
 						</div>
 					</div>
 				</div>
 				<div class="col-md-4">
-					<div class="product-details">
+					<div class="product-details-urbangreens">
 						<h1>About Urban Greens</h1>
 						<p>Urbangreens looks forward to providing farmers with an opportunity to have their products out
 							there and to the relevant customers. Consumers get to have products delivered to them fast

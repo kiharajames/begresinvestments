@@ -1,3 +1,10 @@
+<?php 
+echo "<pre>";
+
+print_r($_POST);
+
+echo "</pre>"?>
+
 <!doctype html>
 
 
@@ -25,10 +32,10 @@
 	<!-- Container -->
 	<div id="container">
 		<!-- Start header -->
-        <?php include 'nav.php'; ?>
+        <?php include 'nav.php';?>
 	<!-- End Header -->
 
-	<!-- banner-page-section 
+	<!-- banner-page-section
 			================================================== -->
 	<section class="banner-page-section contact-banner">
 		<div class="container">
@@ -39,7 +46,7 @@
 	<!-- End banner-page-section -->
 
 
-	<!-- contact-section 
+	<!-- contact-section
 			================================================== -->
 	<section class="contact-page-section">
 		<div class="contact-info">
@@ -66,35 +73,34 @@
 			</div>
 		</div>
 
-		<!--<div class="contact-form">
+		<div class="contact-form">
 				<div class="container">
 					<div class="title-section">
 						<h1>Get in Touch</h1>
-						<p>Sed arcu. Cras consequat.</p>
 					</div>
-					<form id="contact-form">
+					<form id="contact-form" action="check.php" method="POST">
 						<div class="row">
 							<div class="col-md-6">
-								<input name="name" id="name" type="text" placeholder="Name*">
+								<input name="name" id="name" type="text" placeholder="Name*" required>
 							</div>
 							<div class="col-md-6">
-								<input name="mail" id="mail" type="text" placeholder="Email*">
+								<input name="mail" id="mail" type="text" placeholder="Email*" required>
 							</div>
 							<div class="col-md-6">
-								<input name="subject" id="subject" type="text" placeholder="Subject*">
+								<input name="phone" id="phone" type="text" placeholder="Phone number" >
 							</div>
 							<div class="col-md-6">
-								<input name="website" id="website" type="text" placeholder="Website">
+								<input name="subject" id="subject" type="text" placeholder="Subject*" required>
 							</div>
 						</div>
-						<textarea name="comment" id="comment" placeholder="*Message*"></textarea>
+						<textarea name="comment" id="comment" placeholder="*Message*" required></textarea>
 						<div class="submit-area">
 							<input type="submit" id="submit_contact" value="Send Message">
-							<div id="msg" class="message"></div>								
+							<div id="msg" class="message"></div>
 						</div>
 					</form>
 				</div>
-			</div>-->
+			</div>
 
 
 		<iframe style="border:0; width: 100%; height: 350px;"
@@ -108,20 +114,18 @@
 
 	<!-- footer
 			================================================== -->
-	<?php include 'footer.php'; ?>
+	<?php include 'footer.php';?>
 	<!-- End footer -->
 
 	</div>
 	<!-- End Container -->
 	<!--Go top link -->
 	<a class="go-top" href="#"><i class="fa fa-angle-up"></i></a>
-	
+
 
 	<script src="js/strix-plugins.min.js"></script>
-	<script
-		src="http://maps.google.com/maps/api/js?key=AIzaSyCiqrIen8rWQrvJsu-7f4rOta0fmI5r2SI&amp;sensor=false&amp;language=en"></script>
-	<script src="js/gmap3.min.js"></script>
-	<script src="js/script.js"></script>
+	
+	<!--<script src="js/script.js"></script>-->
 
 </body>
 

@@ -28,7 +28,7 @@
 
 	<!-- banner-page-section
 			================================================== -->
-	<section class="banner-page-section product-banner">
+	<section class="banner-page-section vans-banner">
 		<div class="container">
 			<h1>Shule vans</h1>
 			<p>Delivering safe and convinent school transport</p>
@@ -48,30 +48,30 @@
 						<div class="product-visibility">
 							<ul class="other-products">
 								<li>
-									<a href="#" data-image="upload/shop/single.jpg"><img alt=""
-											src="upload/shop/t1.jpg"></a>
+									<a href="#" data-image="images/"><img alt=""
+											src="images/school_buses.jpg"></a>
 								</li>
 								<li>
 									<a href="#" data-image="upload/shop/single2.jpg"><img alt=""
-											src="upload/shop/t2.jpg"></a>
+											src="images/web_system.png"></a>
 								</li>
 								<li>
 									<a href="#" data-image="upload/shop/single3.jpg"><img alt=""
-											src="upload/shop/t3.jpg"></a>
+											src="images/transport_providers.jpg"></a>
 								</li>
 								<li>
 									<a href="#" data-image="upload/shop/single4.jpg"><img alt=""
-											src="upload/shop/t4.jpg"></a>
+											src="images/school-bus.jpg"></a>
 								</li>
 							</ul>
 							<div class="image-holder">
-								<img alt="" src="upload/shop/single.jpg">
+								<img alt="" src="images/transport_providers.jpg">
 							</div>
 						</div>
 					</div>
 				</div>
 				<div class="col-md-4">
-					<div class="product-details">
+					<div class="product-details-shulevans">
 						<h1>About shule vans</h1>
 						<p>Shulevans is a cloud-based software platform that champions the access to education in Africa
 							through safe and convenient school transport. The platform enables school transport

@@ -37,8 +37,8 @@
 			================================================== -->
 	<section class="banner-page-section design-banner">
 		<div class="container">
-			<h1>Check out </h1>
-			<p>our wonderful &amp; designs</p>
+			<h1>Design </h1>
+			<p>Dream it, visualize it &amp; we will make it happen!</p>
 		</div>
 	</section>
 	<!-- End banner-page-section -->
@@ -61,7 +61,7 @@
 			<section class="about-section second-style">
 		<div class="container">
 			<div class="title-section">
-				<h1>What makes our design distintive from the rest</h1>
+				<h1>What makes our design apart from the rest</h1>
 				<p></p>
 			</div>
 			<div class="about-box">
@@ -69,30 +69,30 @@
 
 					<div class="col-md-4">
 						<div class="about-post">
-							<a href="#"><i class="fa fa-cogs"></i></a>
+							<a href="#"><i class="fas fa-dumbbell"></i></a>
 							<div class="about-post-content">
 								<h2><a href="#">Durability</a></h2>
-								<p>Our designs are created in a way that we make sure that the structures created out of them are long lasting </p>
+								<p>Our designs are created in a way that they result into long-lasting structures. </p>
 							</div>
 						</div>
 					</div>
 
 					<div class="col-md-4">
 						<div class="about-post">
-							<a href="#"><i class="fa fa-life-ring"></i></a>
+							<a href="#"><i class="fas fa-check"></i></i></a>
 							<div class="about-post-content">
 								<h2><a href="#">Authenticity</a></h2>
-								<p>Our desingn team have a high degree of creatiity and originality thus providing solutions that are unique to the eye.  </p>
+								<p>Our desingn team has a high degree of creativity and originality thus providing solutions that are unique to the eye.  </p>
 							</div>
 						</div>
 					</div>
 
 					<div class="col-md-4">
 						<div class="about-post">
-							<a href="#"><i class="fa fa-desktop"></i></a>
+							<a href="#"><i class="far fa-eye"></i></a>
 							<div class="about-post-content">
 								<h2><a href="#">Beauty</a></h2>
-								<p> Our architectural designs are breath taking and appealing to the eye.</p>
+								<p> With originality Our architectural designs are breath taking and appealing to the eye.</p>
 							</div>
 						</div>
 					</div>
@@ -117,11 +117,10 @@
 					<div class="col-md-6">
 						<div class="title-section">
 							<h1>Our designs</h1>
-							<p>Our design services aim at providing
+							<p>We aim at providing
 								solutions that adhere to good architectural standards of
 								durability, functionality and aesthetics. Our designs include
-								resiential, commercial, institutional and industrial
-								designs in architectural, landscape, structural, civil and interior design.
+								architectural, landscape, structural, civil and interior designs with a focus on residential, commercial, institutional and industrial projects.
 							 </p>
 						</div>
 					</div>
@@ -254,16 +253,14 @@
 								<div class="feature-post">
 									<span>01</span>
 									<h2>Concept Stage &amp; <br>Design Briefs</h2>
-									<p>Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.
-										Cras consequat.</p>
+									<p>We usually insist on a sit-down with the client and discuss their requirements ,specifications, needs and /or wants of the project. We also elaborate the finer details of the entire design project.</p>
 								</div>
 							</div>
 							<div class="col-md-6">
 								<div class="feature-post">
 									<span>02</span>
 									<h2>Design Stage &amp; <br>Architectural & Structural Drawings</h2>
-									<p>Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.
-										Cras consequat.</p>
+									<p>The actual designing that involves drawings begins first. Architectural drawings are prepared then follows the structural drawings.</p>
 								</div>
 							</div>
 						</div>
@@ -272,16 +269,14 @@
 								<div class="feature-post">
 									<span>03</span>
 									<h2>Construction Stage </h2>
-									<p>Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.
-										Cras consequat.</p>
+									<p>Execution and implementation of the design; initial construction begins.</p>
 								</div>
 							</div>
 							<div class="col-md-6">
 								<div class="feature-post">
 									<span>04</span>
 									<h2>Completion &amp; <br>Post Construction</h2>
-									<p>Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.
-										Cras consequat.</p>
+									<p>When the structure/ project is completely finished, we now handover to the client. Upon an agreement, we can continue to manage the projct on behalf of the client. </p>
 								</div>
 							</div>
 						</div>
@@ -290,6 +285,10 @@
 			</div>
 		</div>
 	</section>
+
+	<!--Start Portfolio -->
+	<?php include "mini_gallery.php";?>
+	<!-- End Portfolio -->
 
 	<!--Go top link -->
 	<a class="go-top" href="#"><i class="fa fa-angle-up"></i></a>
@@ -308,6 +307,7 @@
 
 	<script src="js/strix-plugins.min.js"></script>
 	<script src="js/script.js"></script>
+	<script src="https://kit.fontawesome.com/b5d01810a2.js" crossorigin="anonymous"></script>
 
 </body>
 
