@@ -1,9 +1,43 @@
-<?php 
-echo "<pre>";
+<?php
+// Define some constants
+define( "RECIPIENT_NAME", "Begres Investments" );
+define( "RECIPIENT_EMAIL", "smaina991@gmail.com" );
 
-print_r($_POST);
 
-echo "</pre>"?>
+// Read the form values
+$success = false;
+if (isset($_POST['submit_contact'])) {
+    $userName = $_POST['name'];
+    $senderEmail = $_POST['mail'];
+    $senderPhone = $_POST['phone'];
+    $EmailSubject = $_POST['subject'];
+    $message = $_POST['message'];
+    
+    
+      // If all values exist, send the email
+   if ( $userName && $senderEmail &&$senderPhone &&$EmailSubject && $message ) {
+   $recipient = RECIPIENT_NAME . " <" . RECIPIENT_EMAIL . ">";
+   $headers = "From: " . $userName . " <" . $senderEmail . ">";
+   $msgBody = " Subject: " . $EmailSubject . " \n Sender Phone: " . $senderPhone . " \n \n Message: " . $message . "";
+   $success = mail( $recipient, $headers, $msgBody );
+
+  //Set Location After Successsfull Submission
+   echo "<script type='text/javascript'>alert('SUCCESS.');</script>";
+    echo '<style>body{display:none;}</style>';
+    echo '<script>window.location.href = "index.php";</script>';
+}
+
+else{
+	//Set Location After Unsuccesssfull Submission
+  	 echo "<script type='text/javascript'>alert('FAILED.');</script>";
+    echo '<style>body{display:none;}</style>';
+    echo '<script>window.location.href = "contact.php";</script>';	
+}
+
+}
+
+
+?>
 
 <!doctype html>
 
@@ -78,7 +112,7 @@ echo "</pre>"?>
 					<div class="title-section">
 						<h1>Get in Touch</h1>
 					</div>
-					<form id="contact-form" action="check.php" method="POST">
+					<form id="contact-form" action="contact.php" method="POST">
 						<div class="row">
 							<div class="col-md-6">
 								<input name="name" id="name" type="text" placeholder="Name*" required>
@@ -87,15 +121,15 @@ echo "</pre>"?>
 								<input name="mail" id="mail" type="text" placeholder="Email*" required>
 							</div>
 							<div class="col-md-6">
-								<input name="phone" id="phone" type="text" placeholder="Phone number" >
+								<input name="phone" id="phone" type="text" placeholder="Phone number (optional)" >
 							</div>
 							<div class="col-md-6">
 								<input name="subject" id="subject" type="text" placeholder="Subject*" required>
 							</div>
 						</div>
-						<textarea name="comment" id="comment" placeholder="*Message*" required></textarea>
+						<textarea name="message" id="comment" placeholder="*Message*" required></textarea>
 						<div class="submit-area">
-							<input type="submit" id="submit_contact" value="Send Message">
+							<input type="submit" name="submit_contact" value="Send Message">
 							<div id="msg" class="message"></div>
 						</div>
 					</form>

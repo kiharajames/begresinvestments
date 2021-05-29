@@ -51,7 +51,7 @@
     <div class="team-post">
         <div class="inner-team-post">
             <div class="team-gal">
-                <img src="images/team/kennedy.JPG" alt="">
+                <img src="images/team/kennedy.jpeg" alt="">
             </div>
             <h2>Kennedy Kiteme</h2>
             <span>Chief Executive Officer</span>
@@ -116,7 +116,7 @@
     <div class="team-post">
         <div class="inner-team-post">
             <div class="team-gal">
-                <img src="images/team/matthew.jpg" alt="">
+                <img src="images/team/unknown.JPG" alt="">
             </div>
             <h2>Mutuma Muriuki</h2>
             <span>Research & Development lead </span>
@@ -145,8 +145,13 @@
                 <img src="images/team/paul.jpg" alt="">
             </div>
             <h2>Paul Muoki</h2>
-            <span>Team player</span>
-            <!--<p>Duis dapibus aliquam mi, eget euismod scelerisque ut. </p>-->
+            <span>Head of Project management</span>
+            <p>Paul has a background in Construction project 
+                management and is very passionate with project
+                management, Real Estate and allied. 
+                He has 3 years experience in the construction industry 
+                and is currently pursuing Masters in Construction Project Management. 
+                Professionalism, excellence, integrity and value centricity are his core values. </p>
             <!--<ul class="social-icons">
                 <li><a class="facebook" href="#"><i class="fa fa-facebook"></i></a></li>
                 <li><a class="twitter" href="#"><i class="fa fa-twitter"></i></a></li>
@@ -161,11 +166,12 @@
     <div class="team-post">
         <div class="inner-team-post">
             <div class="team-gal">
-                <img src="images/team/unknown.JPG" alt="">
+                <img src="images/team/matthews.jpeg" alt="">
             </div>
-            <h2>Mutuma Muriuki</h2>
+            <h2>Matthews Mucheru</h2>
             <span>Team player</span>
-            <!--<p>Duis dapibus aliquam mi, eget euismod scelerisque ut. </p>-->
+            <p>Mathews Mucheru has a background in Construction Management and Transportation Engineering, with experience in upcoming technologies in the construction and transport sector. He is visionary and especially passionate about the application of disruptive technologies in improving social life and the economy. Having studied in China, he is focused on using his acquired knowledge and experiences to develop his society and country at large.
+He is also an enthusiastic farmer and has a keen interest in value addition of farm produce </p>
             <!--<ul class="social-icons">
                 <li><a class="facebook" href="#"><i class="fa fa-facebook"></i></a></li>
                 <li><a class="twitter" href="#"><i class="fa fa-twitter"></i></a></li>

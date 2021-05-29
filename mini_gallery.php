@@ -105,5 +105,8 @@
 						</div>
 					</div>
 				</div>
+				<div class="center-button">
+				<a href="gallery.php">More items</a>
+			</div>
 			</div>
 		</section>

@@ -3,7 +3,7 @@
 
 <html lang="en" class="no-js">
 <head>
-	<title>Strix</title>
+	<title>Gallery | Begres Investments</title>
 
 	<meta charset="utf-8">
 
@@ -11,7 +11,7 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
 
 	<link href="https://fonts.googleapis.com/css?family=Damion|Gochi+Hand|Raleway:200,300,400,500,600,700,800,900|Droid+Serif:400,400italic,700,700italic" rel="stylesheet">
-	
+
 	<link rel="stylesheet" href="css/strix-assets.min.css">
 	<link rel="stylesheet" type="text/css" href="css/style.css" media="screen">
 
@@ -19,159 +19,132 @@
 <body>
 
 	<!-- Container -->
-	<div id="container" class="boxed">
+	<div id="container">
 		<!-- Header
 		    ================================================== -->
-		<?php include 'nav.php'; ?>
+		<?php include 'nav.php';?>
 		<!-- End Header -->
 
-		<!-- banner-page-section 
+		<!-- banner-page-section
 			================================================== -->
 		<section class="banner-page-section portfolio-banner">
 			<div class="container">
-				<h1>Portfolio grid</h1>
+				<h1>Portfolio</h1>
 				<p>Recent Projects we have completed</p>
 			</div>
 		</section>
 		<!-- End banner-page-section -->
 
-		<!--page-depth-section 
+		<!-- portfolio-section
 			================================================== -->
-		<section class="page-depth-section">
-			<div class="container">
-				<ul>
-					<li><a href="index.html">Home</a></li>
-					<li><a href="portfolio-grid-3col.html">Portfolio</a></li>
-					<li><a href="portfolio-grid-3col.html">Grid</a></li>
-					<li><a href="portfolio-boxed-grid-3col.html">3 columns (boxed)</a></li>
-				</ul>
-			</div>
-		</section>
-		<!-- End page-depth-section -->
-
-		<!-- portfolio-section 
-			================================================== -->
-		<section class="portfolio-section grid-style nospace">
-			<div class="container">
-				<ul class="filter">
-					<li><a class="active" href="#" data-filter="*">Show All</a></li>
-					<li><a href="#" data-filter=".identity">identity</a></li>
-					<li><a href="#" data-filter=".web-design">web design</a></li>
-					<li><a href="#" data-filter=".graphic">graphic</a></li>
-					<li><a href="#" data-filter=".interior">interior</a></li>
-					<li><a href="#" data-filter=".motion">motion</a></li>
-				</ul>
-				<div class="portfolio-box iso-call col3">
-					<div class="project-post graphic">
-						<div class="post-gallery">
-							<img src="upload/portfolio/grid/1.jpg" alt="">
-							<div class="hover-box">
-								<div class="inner-hover">
-									<h2><a href="single-project.html">Aliquam tincidunt</a></h2>
-									<span>Illustrations, Graphics</span>
-								</div>
-							</div>
-						</div>
-					</div>
-					<div class="project-post web-design">
-						<div class="post-gallery">
-							<img src="upload/portfolio/grid/2.jpg" alt="">
-							<div class="hover-box">
-								<div class="inner-hover">
-									<h2><a href="single-project.html">Vestibulum auctor dapibus</a></h2>
-									<span>Web-Design</span>
-								</div>
-							</div>
-						</div>
-					</div>
-					<div class="project-post identity motion">
-						<div class="post-gallery">
-							<img src="upload/portfolio/grid/3.jpg" alt="">
-							<div class="hover-box">
-								<div class="inner-hover">
-									<h2><a href="single-project.html">Nunc dignissim</a></h2>
-									<span>Motions, identity</span>
-								</div>
-							</div>
-						</div>
-					</div>
-					<div class="project-post graphic">
-						<div class="post-gallery">
-							<img src="upload/portfolio/grid/4.jpg" alt="">
-							<div class="hover-box">
-								<div class="inner-hover">
-									<h2><a href="single-project.html">Cras ornare tristique</a></h2>
-									<span>Photography</span>
-								</div>
-							</div>
-						</div>
-					</div>
-					<div class="project-post interior">
-						<div class="post-gallery">
-							<img src="upload/portfolio/grid/5.jpg" alt="">
-							<div class="hover-box">
-								<div class="inner-hover">
-									<h2><a href="single-project.html">Praesent placerat risus</a></h2>
-									<span>interior</span>
-								</div>
-							</div>
-						</div>
-					</div>
-					<div class="project-post graphic">
-						<div class="post-gallery">
-							<img src="upload/portfolio/grid/6.jpg" alt="">
-							<div class="hover-box">
-								<div class="inner-hover">
-									<h2><a href="single-project.html">Vestibulum commodo</a></h2>
-									<span>Illustrations, Graphics</span>
-								</div>
-							</div>
-						</div>
-					</div>
-					<div class="project-post graphic">
-						<div class="post-gallery">
-							<img src="upload/portfolio/grid/7.jpg" alt="">
-							<div class="hover-box">
-								<div class="inner-hover">
-									<h2><a href="single-project.html">Aliquam tincidunt</a></h2>
-									<span>Illustrations, Graphics</span>
-								</div>
-							</div>
-						</div>
-					</div>
-					<div class="project-post web-design">
-						<div class="post-gallery">
-							<img src="upload/portfolio/grid/8.jpg" alt="">
-							<div class="hover-box">
-								<div class="inner-hover">
-									<h2><a href="single-project.html">Vestibulum auctor dapibus</a></h2>
-									<span>Web-Design</span>
-								</div>
-							</div>
-						</div>
-					</div>
-					<div class="project-post identity motion">
-						<div class="post-gallery">
-							<img src="upload/portfolio/grid/9.jpg" alt="">
-							<div class="hover-box">
-								<div class="inner-hover">
-									<h2><a href="single-project.html">Nunc dignissim</a></h2>
-									<span>Motions, identity</span>
-								</div>
+		<section class="portfolio-section grid-style fullwidth nospace">
+			<div class="portfolio-box iso-call col3">
+				<div class="project-post graphic">
+					<div class="post-gallery">
+						<img src="images/porfolio/1.jpeg" alt="">
+						<div class="hover-box">
+							<div class="inner-hover">
+								<h2><a href="#"></a>Bedroom design</h2>
+								<span>Interior design</span>
 							</div>
 						</div>
 					</div>
 				</div>
-				<div class="center-button">
-					<a href="#">More items</a>
+				<div class="project-post web-design">
+					<div class="post-gallery">
+						<img src="images/porfolio/2.jpeg" alt="">
+						<div class="hover-box">
+							<div class="inner-hover">
+								<h2><a href="#">Living room design</a></h2>
+								<span>Interior design</span>
+							</div>
+						</div>
+					</div>
+				</div>
+				<div class="project-post identity motion">
+					<div class="post-gallery">
+						<img src="images/porfolio/3.jpeg" alt="">
+						<div class="hover-box">
+							<div class="inner-hover">
+								<h2><a href="#">Front of a building</a></h2>
+								<span>Architectural design</span>
+							</div>
+						</div>
+					</div>
+				</div>
+				<div class="project-post graphic">
+					<div class="post-gallery">
+						<img src="images/porfolio/4.jpeg" alt="">
+						<div class="hover-box">
+							<div class="inner-hover">
+								<h2><a href="#">Rongrai Primary school</a></h2>
+								<span>Architectural design</span>
+							</div>
+						</div>
+					</div>
+				</div>
+				<div class="project-post interior">
+					<div class="post-gallery">
+						<img src="images/porfolio/18.jpeg" alt="">
+						<div class="hover-box">
+							<div class="inner-hover">
+								<h2><a href="#">Parking of Studio apartments</a></h2>
+								<span>Architectural design</span>
+							</div>
+						</div>
+					</div>
+				</div>
+				<div class="project-post graphic">
+					<div class="post-gallery">
+						<img src="images/porfolio/22.jpeg" alt="">
+						<div class="hover-box">
+							<div class="inner-hover">
+								<h2><a href="#">Studio apartments</a></h2>
+								<span>Interor design</span>
+							</div>
+						</div>
+					</div>
+				</div>
+				<div class="project-post graphic">
+					<div class="post-gallery">
+						<img src="images/porfolio/28.jpeg" alt="">
+						<div class="hover-box">
+							<div class="inner-hover">
+								<h2><a href="#">Wall construction</a></h2>
+								<span>Construction</span>
+							</div>
+						</div>
+					</div>
+				</div>
+				<div class="project-post web-design">
+					<div class="post-gallery">
+						<img src="images/porfolio/42.jpeg" alt="">
+						<div class="hover-box">
+							<div class="inner-hover">
+								<h2><a href="#">Shopping spaces</a></h2>
+								<span>Design</span>
+							</div>
+						</div>
+					</div>
+				</div>
+				<div class="project-post identity motion">
+					<div class="post-gallery">
+						<img src="images/porfolio/47.jpeg" alt="">
+						<div class="hover-box">
+							<div class="inner-hover">
+								<h2><a href="#">Apartments</a></h2>
+								<span>Architectural design</span>
+							</div>
+						</div>
+					</div>
 				</div>
 			</div>
 		</section>
 		<!-- End portfolio section -->
 
-		<!-- footer 
+		<!-- footer
 			================================================== -->
-		<?php include 'footer.php'; ?>
+		<?php include 'footer.php';?>
 		<!-- End footer -->
 	</div>
 	<!-- End Container -->
