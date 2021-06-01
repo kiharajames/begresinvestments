@@ -329,7 +329,7 @@
 				<div class="about-box">
 					<div class="row">
 
-						<div class="col-md-4">
+						<div class="col-sm-6">
 							<div class="about-post">
 								<a href="#"><i class="fa fa-cogs"></i></a>
 								<div class="about-post-content">
@@ -349,7 +349,7 @@
 							</div>
 						</div>-->
 
-						<div class="col-md-4">
+						<div class="col-sm-6">
 							<div class="about-post">
 								<a href="#"><i class="fa fa-desktop"></i></a>
 								<div class="about-post-content">

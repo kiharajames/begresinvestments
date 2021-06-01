@@ -138,6 +138,152 @@
 						</div>
 					</div>
 				</div>
+				<div class="project-post identity motion">
+					<div class="post-gallery">
+						<img src="images/porfolio/47.jpeg" alt="">
+						<div class="hover-box">
+							<div class="inner-hover">
+								<h2><a href="#">Apartments</a></h2>
+								<span>Architectural design</span>
+							</div>
+						</div>
+					</div>
+				</div>
+				<div class="project-post identity motion">
+					<div class="post-gallery">
+						<img src="images/porfolio/9.jpeg" alt="">
+						<div class="hover-box">
+							<div class="inner-hover">
+								<h2><a href="#">Apartments</a></h2>
+								<span>Architectural design</span>
+							</div>
+						</div>
+					</div>
+				</div>
+				<div class="project-post identity motion">
+					<div class="post-gallery">
+						<img src="images/porfolio/15.jpeg" alt="">
+						<div class="hover-box">
+							<div class="inner-hover">
+								<h2><a href="#">Apartments</a></h2>
+								<span>Architectural design</span>
+							</div>
+						</div>
+					</div>
+				</div>
+				<div class="project-post identity motion">
+					<div class="post-gallery">
+						<img src="images/porfolio/17.jpeg" alt="">
+						<div class="hover-box">
+							<div class="inner-hover">
+								<h2><a href="#">Apartments</a></h2>
+								<span>Architectural design</span>
+							</div>
+						</div>
+					</div>
+				</div>
+				<div class="project-post identity motion">
+					<div class="post-gallery">
+						<img src="images/porfolio/24.jpeg" alt="">
+						<div class="hover-box">
+							<div class="inner-hover">
+								<h2><a href="#">Apartments</a></h2>
+								<span>Architectural design</span>
+							</div>
+						</div>
+					</div>
+				</div>
+				<div class="project-post identity motion">
+					<div class="post-gallery">
+						<img src="images/porfolio/32.jpeg" alt="">
+						<div class="hover-box">
+							<div class="inner-hover">
+								<h2><a href="#">Apartments</a></h2>
+								<span>Architectural design</span>
+							</div>
+						</div>
+					</div>
+				</div>
+				<div class="project-post identity motion">
+					<div class="post-gallery">
+						<img src="images/porfolio/49.jpeg" alt="">
+						<div class="hover-box">
+							<div class="inner-hover">
+								<h2><a href="#">Apartments</a></h2>
+								<span>Architectural design</span>
+							</div>
+						</div>
+					</div>
+				</div>
+				<div class="project-post identity motion">
+					<div class="post-gallery">
+						<img src="images/porfolio/50.jpeg" alt="">
+						<div class="hover-box">
+							<div class="inner-hover">
+								<h2><a href="#">Apartments</a></h2>
+								<span>Architectural design</span>
+							</div>
+						</div>
+					</div>
+				</div>
+				<div class="project-post identity motion">
+					<div class="post-gallery">
+						<img src="images/porfolio/54.jpeg" alt="">
+						<div class="hover-box">
+							<div class="inner-hover">
+								<h2><a href="#">Apartments</a></h2>
+								<span>Architectural design</span>
+							</div>
+						</div>
+					</div>
+				</div>
+				<div class="project-post identity motion">
+					<div class="post-gallery">
+						<img src="images/porfolio/59.jpeg" alt="">
+						<div class="hover-box">
+							<div class="inner-hover">
+								<h2><a href="#">Apartments</a></h2>
+								<span>Architectural design</span>
+							</div>
+						</div>
+					</div>
+				</div>
+				<div class="project-post identity motion">
+					<div class="post-gallery">
+						<img src="images/porfolio/68.jpeg" alt="">
+						<div class="hover-box">
+							<div class="inner-hover">
+								<h2><a href="#">Apartments</a></h2>
+								<span>Architectural design</span>
+							</div>
+						</div>
+					</div>
+				</div>
+				<div class="project-post identity motion">
+					<div class="post-gallery">
+						<img src="images/porfolio/75.jpeg" alt="">
+						<div class="hover-box">
+							<div class="inner-hover">
+								<h2><a href="#">Apartments</a></h2>
+								<span>Architectural design</span>
+							</div>
+						</div>
+					</div>
+				</div>
+				<div class="project-post identity motion">
+					<div class="post-gallery">
+						<img src="images/porfolio/79.jpeg" alt="">
+						<div class="hover-box">
+							<div class="inner-hover">
+								<h2><a href="#">Apartments</a></h2>
+								<span>Architectural design</span>
+							</div>
+						</div>
+					</div>
+				</div>
+				
+				
+				
 			</div>
 		</section>
 		<!-- End portfolio section -->
