@@ -485,7 +485,7 @@
 						</div>
 						<div class="col-md-3 col-sm-6">
 							<div class="statistic-post">
-								<h2>Happy Client</h2>
+								<h2>Happy Clients</h2>
 								<p><span class="timer" data-from="0" data-to="542"></span></p>
 							</div>
 						</div>

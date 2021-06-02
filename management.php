@@ -85,6 +85,87 @@
 	</section>
 	<!-- End short section-->
 
+	<section class="process-subscribe-section">
+		<div class="background-stretch">
+			<div class="image-area"></div>
+			<div class="white-area"></div>
+		</div>
+		<div class="container">
+			<div class="row">
+				<div class="col-md-6">
+					<form class="subscribe-form">
+						<h2>Work with us</h2>
+						<!-- <input type="text" name="email" id="email" placeholder="your email address:" /> -->
+						<!-- <input type="submit" id="submit-subscribe-form" value="subscribe" /> -->
+					</form>
+				</div>
+				<div class="col-md-6">
+					<div class="title-section">
+						<h1>Project management portal</h1>
+						<!--<p>We take care of every detail from the beginning to the end</p>-->
+					</div>
+
+					<div class="features-items">
+						<div class="row">
+							<div class="col-md-6">
+								<div class="feature-post">
+									<span>01</span>
+									<h2>Project  <br>scheduling</h2>
+									<p> We generate project schedules and track 
+										them using project scheduling tools and techniques to monitor 
+										the progress of tasks, resources and costs in real time.</p>
+								</div>
+							</div>
+							<div class="col-md-6">
+								<div class="feature-post">
+									<span>02</span>
+									<h2>Quality   <br>management</h2>
+									<p>We employ Quality management systems to ensure that Architectural and 
+										engineering requirements are met in the final product.</p>
+								</div>
+							</div>
+						</div>
+						<div class="row">
+							<div class="col-md-6">
+								<div class="feature-post">
+									<span>03</span>
+									<h2>Scope  <br>management</h2>
+									<p> We document the specific goals, tasks, deliverables, 
+										features, budgets and other stakeholder needs and ensure they are effectively implemented throughout 
+										the project life cycle with changes kept at minimum.</p>
+								</div>
+							</div>
+							<div class="col-md-6">
+								<div class="feature-post">
+									<span>04</span>
+									<h2>Cost  <br> control</h2>
+									<p> We budget and control the expenses throughout the project 
+										life cycle to ensure projects are completed within budget. </p>
+								</div>
+							</div>
+							<div class="col-md-6">
+								<div class="feature-post">
+									<span>05</span>
+									<h2>Risk  <br> management</h2>
+									<p> We identify all the potential hazards, assess 
+										and provide measures to timely curb the risks throughout the project. </p>
+								</div>
+							</div>
+							<div class="col-md-6">
+								<div class="feature-post">
+									<span>06</span>
+									<h2>Contract  <br> administration</h2>
+									<p> We manage contracts between employer or client and the contractor to 
+										ensure the building contracts are successfully executed. </p>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</section>
+
     
 
 

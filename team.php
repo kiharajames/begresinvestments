@@ -132,7 +132,7 @@
     <div class="team-post">
         <div class="inner-team-post">
             <div class="team-gal">
-                <img src="images/team/unknown.JPG" alt="">
+                <img src="images/team/mutuma.JPG" alt="">
             </div>
             <h2>Mutuma Muriuki</h2>
             <span>Research & Development lead </span>
