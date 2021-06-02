@@ -60,24 +60,25 @@
 						<div class="product-visibility">
 							<ul class="other-products">
 								<li>
-									<a href="#" ><img alt=""
-											src="images/school_buses.jpg"></a>
+								<a href="#" data-image="images/autobus.jpg"><img alt=""
+											src="images/autobus.jpg"></a>
 								</li>
 								<li>
-									<a href="#"><img alt=""
+								<a href="#" data-image="images/web_system.png"><img alt=""
 											src="images/web_system.png"></a>
 								</li>
 								<li>
-									<a href="#" ><img alt=""
+									<a href="#" data-image="images/transport_providers.jpg" ><img alt=""
 											src="images/transport_providers.jpg"></a>
 								</li>
 								<li>
-									<a href="#"><img alt=""
+									<a href="#" data-image="images/school-bus.jpg"><img alt=""
 											src="images/school-bus.jpg"></a>
 								</li>
 							</ul>
 							<div class="image-holder">
-								<img alt="" src="images/transport_providers.jpg">
+							<a href="#" data-image="images/transport_providers.jpg">
+							<img alt="" src="images/transport_providers.jpg"></a>
 							</div>
 						</div>
 					</div>

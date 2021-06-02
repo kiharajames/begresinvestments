@@ -61,19 +61,19 @@
 						<div class="product-visibility">
 							<ul class="other-products">
 								<li>
-									<a href="#"><img alt=""
+								<a href="#" data-image="images/shamba.jpg"><img alt=""
 											src="images/shamba.jpg"></a>
 								</li>
 								<li>
-									<a href="#"><img alt=""
+								<a href="#" data-image="images/close.jpg"><img alt=""
 											src="images/close.jpg"></a>
 								</li>
 								<li>
-									<a href="#"><img alt=""
+								<a href="#" data-image="images/vegetables.jpg"><img alt=""
 											src="images/vegetables.jpg"></a>
 								</li>
 								<li>
-									<a href="#"><img alt=""
+								<a href="#" data-image="images/cabbage.jpg"><img alt=""
 											src="images/cabbage.jpg"></a>
 								</li>
 							</ul>
