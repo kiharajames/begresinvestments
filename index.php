@@ -29,185 +29,240 @@
 	<div id="container">
 		<?php include 'nav.php';?>
 
-		<!-- home-section
+				<!-- home-section
 			================================================== -->
-		<section id="home-section" class="slider2">
+			<section id="home-section" class="slider3">
 
-			<!--
-			#################################
-				- THEMEPUNCH BANNER -
-			#################################
-			-->
-			<div class="tp-banner-container">
-				<div class="tp-banner" >
-					<ul>	<!-- SLIDE  -->
-						<li data-transition="fade" data-slotamount="7" data-masterspeed="500" data-saveperformance="on"  data-title="Intro Slide">
-							<!-- MAIN IMAGE -->
-							<img src="upload/business/slide1.png"  alt="slidebg1" data-lazyload="upload/business/slide1.jpg" data-bgposition="center top" data-bgfit="cover" data-bgrepeat="no-repeat">
-							<!-- LAYERS -->
+<!--
+#################################
+	- THEMEPUNCH BANNER -
+#################################
+-->
+<div class="tp-banner-container">
+	<div class="tp-banner">
+		<ul>
+			<!-- SLIDE  -->
+			<li data-transition="fade" data-slotamount="7" data-masterspeed="500" data-saveperformance="on"
+				data-title="Intro Slide">
+				<!-- MAIN IMAGE -->
+				<img src="upload/business/slide1.png" alt="slidebg1"
+					data-lazyload="upload/business/slide1.png" data-bgposition="center top"
+					data-bgfit="cover" data-bgrepeat="no-repeat">
+				<!-- LAYERS -->
 
-							<!-- LAYER NR. 1 -->
-							<div class="tp-caption finewide_medium_white lfl tp-resizeme rs-parallaxlevel-0"
-								data-x="center"
-								data-y="270"
-								data-customin="x:0;y:0;z:0;rotationX:0;rotationY:0;rotationZ:0;scaleX:0;scaleY:0;skewX:0;skewY:0;opacity:0;transformPerspective:600;transformOrigin:50% 50%;"
-								data-speed="500"
-								data-start="1200"
-								data-easing="Power3.easeInOut"
-								data-splitin="none"
-								data-splitout="none"
-								data-elementdelay="0.05"
-								data-endelementdelay="0.05"
-								style="z-index: 8; white-space: nowrap;">BEGRACING AFRICA 					</div>
-
-							<!-- LAYER NR. 1 -->
-							<div class="tp-caption finewide_medium_white lfr tp-resizeme rs-parallaxlevel-0"
-								data-x="center"
-								data-y="340"
-								data-customin="x:0;y:0;z:0;rotationX:0;rotationY:0;rotationZ:0;scaleX:0;scaleY:0;skewX:0;skewY:0;opacity:0;transformPerspective:600;transformOrigin:50% 50%;"
-								data-speed="500"
-								data-start="1200"
-								data-easing="Power3.easeInOut"
-								data-splitin="none"
-								data-splitout="none"
-								data-elementdelay="0.05"
-								data-endelementdelay="0.05"
-								style="z-index: 8; white-space: nowrap;"> TO HER GLORY
-							</div>
-
-							<!-- LAYER NR. 2 -->
-							<div class="tp-caption small_text lfb tp-resizeme rs-parallaxlevel-0"
-								data-x="center"
-								data-y="436"
-								data-customin="x:0;y:0;z:0;rotationX:0;rotationY:0;rotationZ:0;scaleX:0;scaleY:0;skewX:0;skewY:0;opacity:0;transformPerspective:600;transformOrigin:50% 50%;"
-								data-speed="500"
-								data-start="1800"
-								data-easing="Power3.easeInOut"
-								data-splitin="none"
-								data-splitout="none"
-								data-elementdelay="0.05"
-								data-endelementdelay="0.1"
-								style="z-index: 7; white-space: nowrap;">Begres LLC always explores for superiror results
-							</div>
-
-						</li>
-
-						<!-- SLIDE  -->
-						<li data-transition="fade" data-slotamount="7" data-masterspeed="2000" data-saveperformance="on"  data-title="Ken Burns Slide">
-							<!-- MAIN IMAGE -->
-							<img src="images/dummy.png"  alt="2" data-lazyload="upload/business/slide2.jpg" data-bgposition="right top" data-kenburns="on" data-duration="12000" data-ease="Power0.easeInOut" data-bgfit="115" data-bgfitend="100" data-bgpositionend="center bottom">
-							<!-- LAYERS -->
-
-							<!-- LAYER NR. 1 -->
-							<div class="tp-caption finewide_medium_white lfl tp-resizeme rs-parallaxlevel-0"
-								data-x="center"
-								data-y="270"
-								data-customin="x:0;y:0;z:0;rotationX:0;rotationY:0;rotationZ:0;scaleX:0;scaleY:0;skewX:0;skewY:0;opacity:0;transformPerspective:600;transformOrigin:50% 50%;"
-								data-speed="500"
-								data-start="1200"
-								data-easing="Power3.easeInOut"
-								data-splitin="none"
-								data-splitout="none"
-								data-elementdelay="0.05"
-								data-endelementdelay="0.05"
-								style="z-index: 8; white-space: nowrap;">DESIGN
-							</div>
-
-							<!-- LAYER NR. 1 -->
-							<!--<div class="tp-caption finewide_medium_white lfr tp-resizeme rs-parallaxlevel-0"
-								data-x="center"
-								data-y="340"
-								data-customin="x:0;y:0;z:0;rotationX:0;rotationY:0;rotationZ:0;scaleX:0;scaleY:0;skewX:0;skewY:0;opacity:0;transformPerspective:600;transformOrigin:50% 50%;"
-								data-speed="500"
-								data-start="1200"
-								data-easing="Power3.easeInOut"
-								data-splitin="none"
-								data-splitout="none"
-								data-elementdelay="0.05"
-								data-endelementdelay="0.05"
-								style="z-index: 8; white-space: nowrap;">and Optimize
-							</div>-->
-
-							<!-- LAYER NR. 2 -->
-							<div class="tp-caption small_text lfb tp-resizeme rs-parallaxlevel-0"
-								data-x="center"
-								data-y="436"
-								data-customin="x:0;y:0;z:0;rotationX:0;rotationY:0;rotationZ:0;scaleX:0;scaleY:0;skewX:0;skewY:0;opacity:0;transformPerspective:600;transformOrigin:50% 50%;"
-								data-speed="500"
-								data-start="1800"
-								data-easing="Power3.easeInOut"
-								data-splitin="none"
-								data-splitout="none"
-								data-elementdelay="0.05"
-								data-endelementdelay="0.1"
-								style="z-index: 7; white-space: nowrap;"> We believe that Need is the primary condition
-								for design.
-							</div>
-
-						</li>
-						<!-- SLIDE  -->
-						<li data-transition="fade" data-slotamount="7" data-masterspeed="1000" data-saveperformance="on"  data-title="Parallax 3D">
-							<!-- MAIN IMAGE -->
-							<img src="upload/business/slide3.jpg"  alt="3dbg" data-lazyload="upload/business/slide3.jpg" data-bgposition="center top" data-bgfit="cover" data-bgrepeat="no-repeat">
-							<!-- LAYERS -->
-
-							<!-- LAYER NR. 1 -->
-							<div class="tp-caption finewide_medium_white lfl tp-resizeme rs-parallaxlevel-0"
-								data-x="center"
-								data-y="220"
-								data-customin="x:0;y:0;z:0;rotationX:0;rotationY:0;rotationZ:0;scaleX:0;scaleY:0;skewX:0;skewY:0;opacity:0;transformPerspective:600;transformOrigin:50% 50%;"
-								data-speed="500"
-								data-start="1200"
-								data-easing="Power3.easeInOut"
-								data-splitin="none"
-								data-splitout="none"
-								data-elementdelay="0.05"
-								data-endelementdelay="0.05"
-								style="z-index: 8; white-space: nowrap;">CONSTRUCTION
-							</div>
-
-							<!-- LAYER NR. 2 -->
-							<div class="tp-caption finewide_medium_white lfr tp-resizeme rs-parallaxlevel-0"
-								data-x="center"
-								data-y="294"
-								data-customin="x:0;y:0;z:0;rotationX:0;rotationY:0;rotationZ:0;scaleX:0;scaleY:0;skewX:0;skewY:0;opacity:0;transformPerspective:600;transformOrigin:50% 50%;"
-								data-speed="500"
-								data-start="1200"
-								data-easing="Power3.easeInOut"
-								data-splitin="none"
-								data-splitout="none"
-								data-elementdelay="0.05"
-								data-endelementdelay="0.05"
-								style="z-index: 8; white-space: nowrap;"> AND PROJECT MANAGEMENT
-								for design.
-							</div>
-
-							<!-- LAYER NR. 3 -->
-							<div class="tp-caption small_text lfb tp-resizeme rs-parallaxlevel-0"
-								data-x="center"
-								data-y="390"
-								data-customin="x:0;y:0;z:0;rotationX:0;rotationY:0;rotationZ:0;scaleX:0;scaleY:0;skewX:0;skewY:0;opacity:0;transformPerspective:600;transformOrigin:50% 50%;"
-								data-speed="500"
-								data-start="1800"
-								data-easing="Power3.easeInOut"
-								data-splitin="none"
-								data-splitout="none"
-								data-elementdelay="0.05"
-								data-endelementdelay="0.1"
-								style="z-index: 7; white-space: nowrap;">We ensure that your project is well managed and built up to completion
-							</div>
-
-
-
-						</li>
-					</ul>
-					<div class="tp-bannertimer"></div>
+				<!-- LAYER NR. 1 -->
+				<div class="tp-caption finewide_medium_white lfl tp-resizeme rs-parallaxlevel-0"
+					data-x="center" data-y="240"
+					data-customin="x:0;y:0;z:0;rotationX:0;rotationY:0;rotationZ:0;scaleX:0;scaleY:0;skewX:0;skewY:0;opacity:0;transformPerspective:600;transformOrigin:50% 50%;"
+					data-speed="500" data-start="1200" data-easing="Power3.easeInOut" data-splitin="none"
+					data-splitout="none" data-elementdelay="0.05" data-endelementdelay="0.05"
+					style="z-index: 8; white-space: nowrap;"> BEGRACING AFRICA
 				</div>
-			</div>
-		</section>
-		<!-- End home section -->
 
-		
+				<!-- LAYER NR. 1 -->
+				<div class="tp-caption finewide_medium_white lfr tp-resizeme rs-parallaxlevel-0"
+					data-x="center" data-y="310"
+					data-customin="x:0;y:0;z:0;rotationX:0;rotationY:0;rotationZ:0;scaleX:0;scaleY:0;skewX:0;skewY:0;opacity:0;transformPerspective:600;transformOrigin:50% 50%;"
+					data-speed="500" data-start="1200" data-easing="Power3.easeInOut" data-splitin="none"
+					data-splitout="none" data-elementdelay="0.05" data-endelementdelay="0.05"
+					style="z-index: 8; white-space: nowrap;">TO HER GLORY
+				</div>
+
+				<!-- LAYER NR. 2 -->
+				<div class="tp-caption small_text lfb tp-resizeme rs-parallaxlevel-0" data-x="center"
+					data-y="406"
+					data-customin="x:0;y:0;z:0;rotationX:0;rotationY:0;rotationZ:0;scaleX:0;scaleY:0;skewX:0;skewY:0;opacity:0;transformPerspective:600;transformOrigin:50% 50%;"
+					data-speed="500" data-start="1800" data-easing="Power3.easeInOut" data-splitin="none"
+					data-splitout="none" data-elementdelay="0.05" data-endelementdelay="0.1"
+					style="z-index: 7; white-space: nowrap;">Begres LLC always explores superior value.
+				</div>
+				<!-- <div class="tp-caption small_text lfb tp-resizeme rs-parallaxlevel-0" data-x="center"
+					data-y="450"
+					data-customin="x:0;y:0;z:0;rotationX:0;rotationY:0;rotationZ:0;scaleX:0;scaleY:0;skewX:0;skewY:0;opacity:0;transformPerspective:600;transformOrigin:50% 50%;"
+					data-speed="500" data-start="1800" data-easing="Power3.easeInOut" data-splitin="none"
+					data-splitout="none" data-elementdelay="0.05" data-endelementdelay="0.1"
+					style="z-index: 7; white-space: nowrap;">
+
+					<a class="button-two" href="contact.html">Check our Projects</a>
+				</div> -->
+
+			</li>
+
+			<!-- SLIDE  -->
+			<li data-transition="fade" data-slotamount="7" data-masterspeed="2000" data-saveperformance="on"
+				data-title="Ken Burns Slide">
+				<!-- MAIN IMAGE -->
+				<img src="images/business/slide4.png" alt="2" data-lazyload="upload/business/slide4.png"
+					data-bgposition="right top" data-kenburns="on" data-duration="12000"
+					data-ease="Power0.easeInOut" data-bgfit="115" data-bgfitend="100"
+					data-bgpositionend="center bottom" data-bgrepeat="no-repeat">
+				<!-- LAYERS -->
+
+				<!-- LAYER NR. 1 -->
+				<div class="tp-caption finewide_medium_white lfl tp-resizeme rs-parallaxlevel-0"
+					data-x="center" data-y="260"
+					data-customin="x:0;y:0;z:0;rotationX:0;rotationY:0;rotationZ:0;scaleX:0;scaleY:0;skewX:0;skewY:0;opacity:0;transformPerspective:600;transformOrigin:50% 50%;"
+					data-speed="500" data-start="1200" data-easing="Power3.easeInOut" data-splitin="none"
+					data-splitout="none" data-elementdelay="0.05" data-endelementdelay="0.05"
+					style="z-index: 8; white-space: nowrap;">DESIGN
+				</div>
+
+				<!-- LAYER NR. 1 -->
+				<!-- <div class="tp-caption finewide_medium_white lfr tp-resizeme rs-parallaxlevel-0"
+					data-x="center"
+					data-y="260"
+					data-customin="x:0;y:0;z:0;rotationX:0;rotationY:0;rotationZ:0;scaleX:0;scaleY:0;skewX:0;skewY:0;opacity:0;transformPerspective:600;transformOrigin:50% 50%;"
+					data-speed="500"
+					data-start="1200"
+					data-easing="Power3.easeInOut"
+					data-splitin="none"
+					data-splitout="none"
+					data-elementdelay="0.05"
+					data-endelementdelay="0.05"
+					style="z-index: 8; white-space: nowrap;">We believe that
+				</div>
+
+				<div class="tp-caption finewide_medium_white lfl tp-resizeme rs-parallaxlevel-0"
+					data-x="center"
+					data-y="330"
+					data-customin="x:0;y:0;z:0;rotationX:0;rotationY:0;rotationZ:0;scaleX:0;scaleY:0;skewX:0;skewY:0;opacity:0;transformPerspective:600;transformOrigin:50% 50%;"
+					data-speed="500"
+					data-start="1200"
+					data-easing="Power3.easeInOut"
+					data-splitin="none"
+					data-splitout="none"
+					data-elementdelay="0.05"
+					data-endelementdelay="0.05"
+					style="z-index: 8; white-space: nowrap;">Need is the primary cpmdition for design
+				</div> -->
+
+				<!-- LAYER NR. 2 -->
+				<div class="tp-caption small_text lfb tp-resizeme rs-parallaxlevel-0" data-x="center"
+					data-y="center"
+					data-customin="x:0;y:0;z:0;rotationX:0;rotationY:0;rotationZ:0;scaleX:0;scaleY:0;skewX:0;skewY:0;opacity:0;transformPerspective:600;transformOrigin:50% 50%;"
+					data-speed="500" data-start="1800" data-easing="Power3.easeInOut" data-splitin="none"
+					data-splitout="none" data-elementdelay="0.05" data-endelementdelay="0.1"
+					style="z-index: 7; white-space: nowrap;">We believe that Need is the primary condition
+					for design.
+				</div>
+
+			</li>
+			<!-- SLIDE  -->
+			<li data-transition="fade" data-slotamount="7" data-masterspeed="1000" data-saveperformance="on"
+				data-title="Parallax 3D">
+				<!-- MAIN IMAGE -->
+				<img src="upload/business/page3.png" alt="3dbg" data-lazyload="upload/business/page3.png"
+					data-bgposition="center top" data-bgfit="cover" data-bgrepeat="no-repeat">
+				<!-- LAYERS -->
+
+				<!-- LAYER NR. 1 -->
+				<div class="tp-caption finewide_medium_white lft tp-resizeme rs-parallaxlevel-0"
+					data-x="center" data-y="290"
+					data-customin="x:0;y:0;z:0;rotationX:0;rotationY:0;rotationZ:0;scaleX:0;scaleY:0;skewX:0;skewY:0;opacity:0;transformPerspective:600;transformOrigin:50% 50%;"
+					data-speed="500" data-start="1200" data-easing="Power3.easeInOut" data-splitin="none"
+					data-splitout="none" data-elementdelay="0.05" data-endelementdelay="0.05"
+					style="z-index: 8; white-space: nowrap;">CONSTRUCTION
+				</div>
+
+				<!-- LAYER NR. 2 -->
+				<div class="tp-caption small_text lfb tp-resizeme rs-parallaxlevel-0" data-x="center"
+					data-y="380"
+					data-customin="x:0;y:0;z:0;rotationX:0;rotationY:0;rotationZ:0;scaleX:0;scaleY:0;skewX:0;skewY:0;opacity:0;transformPerspective:600;transformOrigin:50% 50%;"
+					data-speed="500" data-start="1800" data-easing="Power3.easeInOut" data-splitin="none"
+					data-splitout="none" data-elementdelay="0.05" data-endelementdelay="0.1"
+					style="z-index: 7; white-space: nowrap;">Get that residential or commercial building standing in no time
+				</div>
+
+			</li><!-- SLIDE  -->
+			<li data-transition="fade" data-slotamount="7" data-masterspeed="500" data-saveperformance="on"
+				data-title="Intro Slide">
+				<!-- MAIN IMAGE -->
+				<img src="upload/business/project.jpg" alt="slidebg1"
+					data-lazyload="upload/business/project.jpg" data-bgposition="center top"
+					data-bgfit="cover" data-bgrepeat="no-repeat">
+				<!-- LAYERS -->
+
+				<!-- LAYER NR. 1 -->
+				<div class="tp-caption finewide_medium_white lfl tp-resizeme rs-parallaxlevel-0"
+					data-x="center" data-y="240"
+					data-customin="x:0;y:0;z:0;rotationX:0;rotationY:0;rotationZ:0;scaleX:0;scaleY:0;skewX:0;skewY:0;opacity:0;transformPerspective:600;transformOrigin:50% 50%;"
+					data-speed="500" data-start="1200" data-easing="Power3.easeInOut" data-splitin="none"
+					data-splitout="none" data-elementdelay="0.05" data-endelementdelay="0.05"
+					style="z-index: 8; white-space: nowrap;">Project Management
+				</div>
+
+				<!-- LAYER NR. 1 -->
+				<!-- <div class="tp-caption finewide_medium_white lfr tp-resizeme rs-parallaxlevel-0"
+					data-x="center" data-y="310"
+					data-customin="x:0;y:0;z:0;rotationX:0;rotationY:0;rotationZ:0;scaleX:0;scaleY:0;skewX:0;skewY:0;opacity:0;transformPerspective:600;transformOrigin:50% 50%;"
+					data-speed="500" data-start="1200" data-easing="Power3.easeInOut" data-splitin="none"
+					data-splitout="none" data-elementdelay="0.05" data-endelementdelay="0.05"
+					style="z-index: 8; white-space: nowrap;">in one theme
+				</div> -->
+
+				<!-- LAYER NR. 2 -->
+				<div class="tp-caption small_text lfb tp-resizeme rs-parallaxlevel-0" data-x="center"
+					data-y="center"
+					data-customin="x:0;y:0;z:0;rotationX:0;rotationY:0;rotationZ:0;scaleX:0;scaleY:0;skewX:0;skewY:0;opacity:0;transformPerspective:600;transformOrigin:50% 50%;"
+					data-speed="500" data-start="1800" data-easing="Power3.easeInOut" data-splitin="none"
+					data-splitout="none" data-elementdelay="0.05" data-endelementdelay="0.1"
+					style="z-index: 7; white-space: nowrap;">We manage your project to your satisfactory
+					completion
+				</div>
+
+			</li>
+
+			</li><!-- SLIDE  -->
+			<li data-transition="fade" data-slotamount="7" data-masterspeed="500" data-saveperformance="on"
+				data-title="Intro Slide">
+				<!-- MAIN IMAGE -->
+				<img src="images/Tech.jpg" alt="slidebg1"
+					data-lazyload="images/Tech.jpg" data-bgposition="center top"
+					data-bgfit="cover" data-bgrepeat="no-repeat">
+				<!-- LAYERS -->
+
+				<!-- LAYER NR. 1 -->
+				<div class="tp-caption finewide_medium_white lfl tp-resizeme rs-parallaxlevel-0"
+					data-x="center" data-y="240"
+					data-customin="x:0;y:0;z:0;rotationX:0;rotationY:0;rotationZ:0;scaleX:0;scaleY:0;skewX:0;skewY:0;opacity:0;transformPerspective:600;transformOrigin:50% 50%;"
+					data-speed="500" data-start="1200" data-easing="Power3.easeInOut" data-splitin="none"
+					data-splitout="none" data-elementdelay="0.05" data-endelementdelay="0.05"
+					style="z-index: 8; white-space: nowrap;">Amazing Technology
+				</div>
+
+				<!-- LAYER NR. 1 -->
+				<div class="tp-caption finewide_medium_white lfr tp-resizeme rs-parallaxlevel-0"
+					data-x="center" data-y="310"
+					data-customin="x:0;y:0;z:0;rotationX:0;rotationY:0;rotationZ:0;scaleX:0;scaleY:0;skewX:0;skewY:0;opacity:0;transformPerspective:600;transformOrigin:50% 50%;"
+					data-speed="500" data-start="1200" data-easing="Power3.easeInOut" data-splitin="none"
+					data-splitout="none" data-elementdelay="0.05" data-endelementdelay="0.05"
+					style="z-index: 8; white-space: nowrap;">Solutions
+				</div>
+
+				<!-- LAYER NR. 2 -->
+				<div class="tp-caption small_text lfb tp-resizeme rs-parallaxlevel-0" data-x="center"
+					data-y="406"
+					data-customin="x:0;y:0;z:0;rotationX:0;rotationY:0;rotationZ:0;scaleX:0;scaleY:0;skewX:0;skewY:0;opacity:0;transformPerspective:600;transformOrigin:50% 50%;"
+					data-speed="500" data-start="1800" data-easing="Power3.easeInOut" data-splitin="none"
+					data-splitout="none" data-elementdelay="0.05" data-endelementdelay="0.1"
+					style="z-index: 7; white-space: nowrap;">We having good
+					skills in design and development
+					websites.
+				</div>
+
+			</li>
+		</ul>
+		<div class="tp-bannertimer"></div>
+	</div>
+</div>
+<div class="banner-thumbs">
+	<div class="container">
+	</div>
+</div>
+</section>
+<!-- End home section -->
+
+
 
 				<!-- about-alt
 			================================================== -->
@@ -221,21 +276,20 @@
 					<div class="col-md-6">
 						<div class="title-section">
 							<h1>About Us</h1>
-							<p>Begres Investments LLC is an engineering & technology Solutions Company headquartered in
-							Nairobi, Kenya founded in the year 2020. The company designs, develops and builds integrated
+							<p>Begres Investments LLC is an engineering & technology Solutions Company. It was founded in 2020 with its headquaters in Nairobi. The company designs, develops and builds integrated
 							engineering & technology products with the aim of bridging human & business infrastructure
 							deficits in Africa. </p>
 						</div>
 						<div class="about-box">
 							<div class="about-post">
-								<a href="#"><i class="fa fa-globe"></i></a>
+								<a href="#"><i class="fas fa-eye"></i></a>
 								<div class="about-post-content">
 									<h2>Our Vision</h2>
 									<p>To be a global leader in exploring superior value while creating the future </p>
 								</div>
 							</div>
 							<div class="about-post">
-								<a href="#"><i class="fa fa-magic"></i></a>
+								<a href="#"><i class="fas fa-compass"></i></a>
 								<div class="about-post-content">
 									<h2>Our Mission</h2>
 									<p>Every day we explore, creating the most advanced and globally competitive
@@ -245,7 +299,7 @@
 								</div>
 							</div>
 							<div class="about-post">
-								<a href="#"><i class="fa fa-font"></i></a>
+								<a href="#"><i class="fas fa-globe"></i></a>
 								<div class="about-post-content">
 									<h2>Our Core Values & Culture</h2>
 									<p>Consistent Innovation & Long-Term Value Creation</p><br>
@@ -275,17 +329,17 @@
 				<div class="about-box">
 					<div class="row">
 
-						<div class="col-md-4">
+						<div class="col-sm-6">
 							<div class="about-post">
 								<a href="#"><i class="fa fa-cogs"></i></a>
 								<div class="about-post-content">
-									<h2><a href="#">Design and Build Solutions</a></h2>
-									<p>Our commitment is to create futuristic spaces that inspire life.</p>
+									<h2><a href="#">Engineering solutions</a></h2>
+									<p>Our commitment is to create futuristic spaces that inspire life. Areas under design include but are not limited to design, project management and construction</p>
 								</div>
 							</div>
 						</div>
 
-						<div class="col-md-4">
+						<!--<div class="col-md-4">
 							<div class="about-post">
 								<a href="#"><i class="fa fa-life-ring"></i></a>
 								<div class="about-post-content">
@@ -293,14 +347,14 @@
 									<p>Encouraging more of technology in every company and less of tech companies.</p>
 								</div>
 							</div>
-						</div>
+						</div>-->
 
-						<div class="col-md-4">
+						<div class="col-sm-6">
 							<div class="about-post">
 								<a href="#"><i class="fa fa-desktop"></i></a>
 								<div class="about-post-content">
 									<h2><a href="#">Technology Solutions</a></h2>
-									<p>Our aspiration is to always match capital to opportunities. </p>
+									<p>Encouraging more of technology in every company and less of tech companies </p>
 								</div>
 							</div>
 						</div>
@@ -362,7 +416,7 @@
 					<div class="col-md-6">
 						<div class="title-section">
 							<h1>What we do</h1>
-							<p>Begres is focused on delivering construction projects from onset to finish</p>
+							<p>Begres is focused on delivering projects from the onset to the finish while ensuring quality value for money and investment.</p>
 						</div>
 
 						<div class="accordion-box">
@@ -372,7 +426,7 @@
 									<h2>Who We Are</h2>
 								</div>
 								<div class="accord-content">
-									<p>We are a team with vast experience in different areas that works together to see
+									<p>We are a team with vast experiences in different fields that works together to see to
 										the success of your projects</p>
 								</div>
 							</div>
@@ -383,7 +437,7 @@
 									<h2>What We Do </h2>
 								</div>
 								<div class="accord-content">
-									<p>We design, execute and manage your projects</p>
+									<p>We think through, plan, design, execute, implement and manage your projects</p>
 								</div>
 							</div>
 
@@ -395,8 +449,8 @@
 								<div class="accord-content">
 									<p>When you choose Begress investments, you can rest assured of unmatched customer
 										service and satisfaction. Our priority
-										number one is to offer top-rated build, design, business solutions, property
-										investments and the related services.</p>
+										number one is to offer top-notch build, design, business solutions, property
+										investments and other related services.</p>
 								</div>
 							</div>
 
@@ -408,115 +462,7 @@
 		<!-- End what-we-do -->
 		<!-- portfolio-section
 			================================================== -->
-			<section class="portfolio-section grid-style fullwidth nospace no-padding-bot">
-			<div class="container">
-				<div class="title-section">
-					<h1>Our Awesome Portfolio</h1>
-					<p> We have been able to do amazing projects, check them out!</p>
-				</div>
-			</div>
-			<div class="portfolio-box iso-call col4">
-				<div class="project-post graphic">
-					<div class="post-gallery">
-						<img src="images/porfolio/villa.jpg" alt="">
-						<div class="hover-box">
-							<div class="inner-hover">
-								<h2><a href="single-project.html">5 Bedroom Villa Design
-									</a></h2>
-								<span>Consists of:
-									Open plan lounge, dining and kitchen family room
-									All bedrooms ensuite inclusive of DSQ
-									Roof top lounge
-									Laundry room and rooftop terrace</span>
-							</div>
-						</div>
-					</div>
-				</div>
-				<div class="project-post web-design">
-					<div class="post-gallery">
-						<img src="images/porfolio/bungalow.jpg" alt="">
-						<div class="hover-box">
-							<div class="inner-hover">
-								<h2><a href="single-project.html">3 Bedroom Bungalow design</a></h2>
-								<span>Consists of:
-									Lounge
-									Dining
-									Kitchen
-									Common washrooms
-									2 Bedrooms
-									Master bedroom ensuite</span>
-							</div>
-						</div>
-					</div>
-				</div>
-				<div class="project-post identity motion">
-					<div class="post-gallery">
-						<img src="images/porfolio/hote.jpg" alt="">
-						<div class="hover-box">
-							<div class="inner-hover">
-								<h2><a href="single-project.html">Nunc dignissim</a></h2>
-								<span>Motions, identity</span>
-							</div>
-						</div>
-					</div>
-				</div>
-				<div class="project-post graphic">
-					<div class="post-gallery">
-						<img src="images/porfolio/NVILLA2.jpg" alt="">
-						<div class="hover-box">
-							<div class="inner-hover">
-								<h2><a href="single-project.html">Cras ornare tristique</a></h2>
-								<span>Photography</span>
-							</div>
-						</div>
-					</div>
-				</div>
-				<div class="project-post interior">
-					<div class="post-gallery">
-						<img src="images/porfolio/shops.jpg" alt="">
-						<div class="hover-box">
-							<div class="inner-hover">
-								<h2><a href="single-project.html">Praesent placerat risus</a></h2>
-								<span>interior</span>
-							</div>
-						</div>
-					</div>
-				</div>
-				<div class="project-post graphic">
-					<div class="post-gallery">
-						<img src="images/porfolio/bungalowsmall.jpg" alt="">
-						<div class="hover-box">
-							<div class="inner-hover">
-								<h2><a href="single-project.html">Vestibulum commodo</a></h2>
-								<span>Illustrations, Graphics</span>
-							</div>
-						</div>
-					</div>
-				</div>
-				<div class="project-post graphic">
-					<div class="post-gallery">
-						<img src="images/porfolio/mall.jpg" alt="">
-						<div class="hover-box">
-							<div class="inner-hover">
-								<h2><a href="single-project.html">Aliquam tincidunt</a></h2>
-								<span>Illustrations, Graphics</span>
-							</div>
-						</div>
-					</div>
-				</div>
-				<div class="project-post web-design">
-					<div class="post-gallery">
-						<img src="images/porfolio/mansion.jpg" alt="">
-						<div class="hover-box">
-							<div class="inner-hover">
-								<h2><a href="single-project.html">Vestibulum auctor dapibus</a></h2>
-								<span>Web-Design</span>
-							</div>
-						</div>
-					</div>
-				</div>
-			</div>
-		</section>
+			<?php include 'mini_gallery.php'; ?>
 		<!-- End portfolio section -->
 
 		<!-- statistic-section
@@ -567,7 +513,6 @@
 					<div class="col-md-6">
 						<div class="title-section">
 							<h1>Our Skills</h1>
-							<p>Aliquam porttitor mauris sit amet orci. </p>
 						</div>
 						<div class="skills-box">
 							<div class="skills-progress">
@@ -688,5 +633,6 @@
 		});	//ready
 
 	</script>
+<script src="https://kit.fontawesome.com/b5d01810a2.js" crossorigin="anonymous"></script>
 </body>
 </html>

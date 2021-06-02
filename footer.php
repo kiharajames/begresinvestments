@@ -1,12 +1,12 @@
-<br><br>
+<br>
 <!-- footer
 			================================================== -->
             <footer class="dark-style">
                 <div class="container">
-        
+
                     <div class="up-footer">
                         <div class="row">
-        
+
                             <div class="col-md-3 col-sm-12">
                                 <div class="footer-widget text-widget">
                                     <img src="images/begresLogosmall-31.png" alt="">
@@ -15,7 +15,7 @@
                                         superior value while creating the
                                         future. Our investments are towards private and public equity in impactful sectors of
                                         the economy mainly Construction &
-                                        Real Estate, Agribusiness, Transport & logistics. </p>
+                                        Real Estate, Agribusiness and Transport & logistics. </p>
                                 </div>
                                 <div class="footer-widget social-widget">
                                     <h2>Stay connected</h2>
@@ -33,7 +33,7 @@
                                     </ul>
                                 </div>
                             </div>
-        
+
                             <div class="col-md-3 col-sm-12">
                                 <div class="footer-widget posts-widget">
                                     <h2>Contact Us</h2>
@@ -53,28 +53,22 @@
                                     </ul>
                                 </div>
                             </div>
-        
+
                             <div class="col-md-3 col-sm-6">
                                 <div class="footer-widget instagram-widget">
-                                    <h2>Instagram</h2>
-                                    <ul class="instagram-list">
-                                        <li><a href="#"><img src="upload/stream/1.jpg" alt=""></a></li>
-                                        <li><a href="#"><img src="upload/stream/2.jpg" alt=""></a></li>
-                                        <li><a href="#"><img src="upload/stream/3.jpg" alt=""></a></li>
-                                        <li><a href="#"><img src="upload/stream/4.jpg" alt=""></a></li>
-                                        <li><a href="#"><img src="upload/stream/5.jpg" alt=""></a></li>
-                                        <li><a href="#"><img src="upload/stream/6.jpg" alt=""></a></li>
-                                    </ul>
+                                    <h2>Begres on twitter</h2>
+                                    <a class="twitter-timeline" data-height="300" data-theme="dark" href="https://twitter.com/Begres_Kenya?ref_src=twsrc%5Etfw">Tweets by Begres_Kenya</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
                                 </div>
                             </div>
-        
+
                             <div class="col-md-3 col-sm-6">
                                 <div class="footer-widget links-widget">
                                     <h2>More Links</h2>
                                     <ul class="links-list">
                                         <li><a href="index.php">Home</a></li>
-                                        <li><a href="arch.php">Architectural and engineering design</a></li>
-                                        <li><a href="management.php">Construction and project management</a></li>
+                                        <li><a href="constuction.php">Construction</a></li>
+                                        <li><a href="design.php">Design</a></li>
+                                        <li><a href="management.php">Project management</a></li>
                                         <li><a href="https://www.shulevans.com">Shulevans</a></li>
                                         <li><a href="https://www.urbangreens.co.ke">Urbangreens</a></li>
                                         <li><a href="team.php">Team</a></li>
@@ -82,13 +76,13 @@
                                     </ul>
                                 </div>
                             </div>
-        
+
                         </div>
                     </div>
-        
+
                     <p class="copyright">
-                        
-                        &copy; Copyright <?php echo date ('Y'); ?> Begres LLC. All rights reserved.
+
+                        &copy; Copyright <?php echo date('Y'); ?> Begres LLC. All rights reserved.
                     </p>
                 </div>
             </footer>

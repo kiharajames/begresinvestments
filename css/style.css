@@ -9375,6 +9375,18 @@ section.app-available-section .app-available-box ul.app-available-list li a:hove
   -o-background-size: cover;
   text-align: center;
 }
+/* special case for portfolio */
+.banner-page-section {
+  padding: 140px 0;
+  margin-top: 90px;
+  background: url('../images/porfolio/hote.jpg') center center;
+  background-size: cover;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  text-align: center;
+}
+/* End of special case */
 .banner-page-section h1 {
   color: #222222;
   font-size: 36px;
@@ -9994,12 +10006,52 @@ button.mfp-arrow {
 /* =  about pages
 /*-------------------------------------------------*/
 .banner-page-section.about-banner {
-  background: url('../upload/banners/back6.jpg') center center;
+  background: url('../images/construction.jpg') center center;
   background-size: cover;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
 }
+
+/* Special case for team */
+.banner-page-section.team-banner {
+  background: url('../images/team.jpg') center center;
+  background-size: cover;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+}
+/* End of special case */
+
+/* Special case for design */
+.banner-page-section.design-banner {
+  background: url('../images/architectural.jpg') center center;
+  background-size: cover;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+}
+/* End of special case */
+
+/* Special case for construction */
+.banner-page-section.construction-banner {
+  background: url('../images/mngt.jpg') center center;
+  background-size: cover;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+}
+/* End of special case */
+
+/* Special case for management */
+.banner-page-section.management-banner {
+  background: url('../images/commercial.jpg') center center;
+  background-size: cover;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+}
+/* End of special case */
 section.about-us-section {
   padding: 80px 0;
 }
@@ -10082,23 +10134,23 @@ section.about-us-section .features-items .feature-post h2 {
 }
 section.about-us-section.black-style {
   padding-top: 100px;
-  background: url('../upload/banners/banner1.jpg') center center fixed;
+  background: url('../images/about.jpg') center center fixed;
   background-size: cover;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
 }
 section.about-us-section.black-style .about-box .about-title h1 {
-  color: #fff;
+  color: #000000;
 }
 section.about-us-section.black-style .about-box .about-post {
   margin-bottom: 30px;
 }
 section.about-us-section.black-style .about-box .about-post h2 {
-  color: #fff;
+  color: #000000;
 }
 section.about-us-section.black-style .about-box .about-post p {
-  color: #aaaaaa;
+  color: #000000;
 }
 section.skills-section {
   padding: 60px 0 80px;
@@ -12453,6 +12505,33 @@ section.product-section .product-pagination.center ul li {
   -moz-background-size: cover;
   -o-background-size: cover;
 }
+
+/* Special case for shule_vans */
+.banner-page-section.vans-banner {
+  background: url('../images/school_buses.jpg') center center;
+  background-size: cover;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+}
+
+/* Special case for urban greens */
+.banner-page-section.urban-banner {
+  background: url('../images/farm.jpg') center center;
+  background-size: cover;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+}
+
+.banner-page-section.product-banner {
+  background: url('../upload/banners/back8.jpg') center center;
+  background-size: cover;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+}
+
 .single-product-section {
   padding: 80px 0 0;
 }
@@ -12565,6 +12644,7 @@ section.product-section .product-pagination.center ul li {
   padding: 0;
   background: transparent;
 }
+
 .single-product-section .product-details > a {
   display: inline-block;
   text-decoration: none;
@@ -12587,6 +12667,55 @@ section.product-section .product-pagination.center ul li {
   text-align: center;
   margin-left: 12px;
 }
+
+/* Special case urban greens button */
+.single-product-section .product-details-urbangreens > a {
+  display: inline-block;
+  text-decoration: none;
+  transition: all 0.2s ease-in-out;
+  -moz-transition: all 0.2s ease-in-out;
+  -webkit-transition: all 0.2s ease-in-out;
+  -o-transition: all 0.2s ease-in-out;
+  padding: 10px 25px;
+  -webkit-border-radius: 3px;
+  -moz-border-radius: 3px;
+  -o-border-radius: 3px;
+  border-radius: 3px;
+  background: transparent;
+  border: 1px solid #222222;
+  color: #00FF00;
+  font-family: 'Raleway', sans-serif;
+  font-size: 12px;
+  font-weight: 600;
+  text-transform: uppercase;
+  text-align: center;
+  margin-left: 12px;
+}
+
+/* Special case for shulevans */
+.single-product-section .product-details-shulevans > a {
+  display: inline-block;
+  text-decoration: none;
+  transition: all 0.2s ease-in-out;
+  -moz-transition: all 0.2s ease-in-out;
+  -webkit-transition: all 0.2s ease-in-out;
+  -o-transition: all 0.2s ease-in-out;
+  padding: 10px 25px;
+  -webkit-border-radius: 3px;
+  -moz-border-radius: 3px;
+  -o-border-radius: 3px;
+  border-radius: 3px;
+  background: transparent;
+  border: 1px solid #222222;
+  color: #ffd800;
+  font-family: 'Raleway', sans-serif;
+  font-size: 12px;
+  font-weight: 600;
+  text-transform: uppercase;
+  text-align: center;
+  margin-left: 12px;
+}
+
 .single-product-section .product-details > a i {
   margin-right: 10px;
 }
@@ -14715,9 +14844,10 @@ footer.dark-style p.copyright {
     float: none;
   }
 }
-@media (max-width: 767px) {
+@media (max-width: 1000px) {
   .navbar-brand {
     padding: 14px 15px 17px;
+    padding-left: 5px;
   }
   .navbar-nav > li > a {
     padding: 5px 15px !important;
