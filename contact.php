@@ -1,8 +1,7 @@
 <?php
 // Define some constants
-define( "RECIPIENT_NAME", "Begres Investments" );
-define( "RECIPIENT_EMAIL", "smaina991@gmail.com" );
-
+define("RECIPIENT_NAME", "Begres Investments");
+define("RECIPIENT_EMAIL", "smaina991@gmail.com");
 
 // Read the form values
 $success = false;
@@ -12,30 +11,26 @@ if (isset($_POST['submit_contact'])) {
     $senderPhone = $_POST['phone'];
     $EmailSubject = $_POST['subject'];
     $message = $_POST['message'];
-    
-    
-      // If all values exist, send the email
-   if ( $userName && $senderEmail &&$senderPhone &&$EmailSubject && $message ) {
-   $recipient = RECIPIENT_NAME . " <" . RECIPIENT_EMAIL . ">";
-   $headers = "From: " . $userName . " <" . $senderEmail . ">";
-   $msgBody = " Subject: " . $EmailSubject . " \n Sender Phone: " . $senderPhone . " \n \n Message: " . $message . "";
-   $success = mail( $recipient, $headers, $msgBody );
 
-  //Set Location After Successsfull Submission
-   echo "<script type='text/javascript'>alert('SUCCESS.');</script>";
-    echo '<style>body{display:none;}</style>';
-    echo '<script>window.location.href = "index.php";</script>';
-}
+    // If all values exist, send the email
+    if ($userName && $senderEmail && $senderPhone && $EmailSubject && $message) {
+        $recipient = RECIPIENT_NAME . " <" . RECIPIENT_EMAIL . ">";
+        $headers = "From: " . $userName . " <" . $senderEmail . ">";
+        $msgBody = " Subject: " . $EmailSubject . " \n Sender Phone: " . $senderPhone . " \n \n Message: " . $message . "";
+        $success = mail($recipient, $headers, $msgBody);
 
-else{
-	//Set Location After Unsuccesssfull Submission
-  	 echo "<script type='text/javascript'>alert('FAILED.');</script>";
-    echo '<style>body{display:none;}</style>';
-    echo '<script>window.location.href = "contact.php";</script>';	
-}
+        //Set Location After Successsfull Submission
+        echo "<script type='text/javascript'>alert('SUCCESS.');</script>";
+        echo '<style>body{display:none;}</style>';
+        echo '<script>window.location.href = "index.php";</script>';
+    } else {
+        //Set Location After Unsuccesssfull Submission
+        echo "<script type='text/javascript'>alert('FAILED.');</script>";
+        echo '<style>body{display:none;}</style>';
+        echo '<script>window.location.href = "contact.php";</script>';
+    }
 
 }
-
 
 ?>
 
@@ -78,6 +73,18 @@ else{
 		</div>
 	</section>
 	<!-- End banner-page-section -->
+
+	<!--page-depth-section
+				================================================== -->
+				<section class="page-depth-section">
+				<div class="container">
+					<ul>
+						<li><a href="index.php">Home</a></li>
+						<li><a href="contact.php">Contact us</a></li>
+					</ul>
+				</div>
+			</section>
+			<!-- End page-depth-section -->
 
 
 	<!-- contact-section
@@ -158,7 +165,7 @@ else{
 
 
 	<script src="js/strix-plugins.min.js"></script>
-	
+
 	<!--<script src="js/script.js"></script>-->
 
 </body>

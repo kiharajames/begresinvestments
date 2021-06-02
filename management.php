@@ -47,7 +47,18 @@
 			</div>
 		</section>
 		<!-- End banner-page-section -->
-		<br>
+
+		<!--page-depth-section 
+				================================================== -->
+				<section class="page-depth-section">
+				<div class="container">
+					<ul>
+						<li><a href="index.php">Home</a></li>
+						<li><a href="management.php">Project Management</a></li>
+					</ul>
+				</div>
+			</section>
+			<!-- End page-depth-section -->
 
 		<section class="about-alt-section">
 			<div class="background-stretch">

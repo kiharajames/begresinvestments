@@ -45,15 +45,14 @@
 
 	<!--page-depth-section
 			================================================== -->
-	<!--<section class="page-depth-section">
+	<section class="page-depth-section">
 		<div class="container">
 			<ul>
-				<li><a href="index.html">Home</a></li>
-				<li><a href="#">Pages</a></li>
-				<li><a href="services.html">Services</a></li>
+				<li><a href="index.php">Home</a></li>
+				<li><a href="design.php">Design</a></li>
 			</ul>
 		</div>
-	</section>-->
+	</section>
 	<!-- End page-depth-section -->
 
 	<!-- about-section
@@ -72,7 +71,7 @@
 							<a href="#"><i class="fas fa-dumbbell"></i></a>
 							<div class="about-post-content">
 								<h2><a href="#">Durability</a></h2>
-								<p>Our designs are created in a way that they result into long-lasting structures. </p>
+								<p>We ensure that our designs are structurally sound taking care of servicability and ultimate limit state. </p>
 							</div>
 						</div>
 					</div>
@@ -81,8 +80,8 @@
 						<div class="about-post">
 							<a href="#"><i class="fas fa-check"></i></i></a>
 							<div class="about-post-content">
-								<h2><a href="#">Authenticity</a></h2>
-								<p>Our desingn team has a high degree of creativity and originality thus providing solutions that are unique to the eye.  </p>
+								<h2><a href="#">Functionality</a></h2>
+								<p>We focus on ensuring that our designs adhete and respond to our client needs with appropriate approach to space use and context.  </p>
 							</div>
 						</div>
 					</div>
@@ -91,8 +90,8 @@
 						<div class="about-post">
 							<a href="#"><i class="far fa-eye"></i></a>
 							<div class="about-post-content">
-								<h2><a href="#">Beauty</a></h2>
-								<p> With originality Our architectural designs are breath taking and appealing to the eye.</p>
+								<h2><a href="#">Aesthetics/ Beauty</a></h2>
+								<p> The ultimate piece of architecture is created to have proper visual appeal with proper attention to form and detail.</p>
 							</div>
 						</div>
 					</div>
@@ -253,14 +252,14 @@
 								<div class="feature-post">
 									<span>01</span>
 									<h2>Concept Stage &amp; <br>Design Briefs</h2>
-									<p>We usually insist on a sit-down with the client and discuss their requirements ,specifications, needs and /or wants of the project. We also elaborate the finer details of the entire design project.</p>
+									<p> We listen to the client requirements and come up with concepts and forms that respond to these needs.</p>
 								</div>
 							</div>
 							<div class="col-md-6">
 								<div class="feature-post">
 									<span>02</span>
-									<h2>Design Stage &amp; <br>Architectural & Structural Drawings</h2>
-									<p>The actual designing that involves drawings begins first. Architectural drawings are prepared then follows the structural drawings.</p>
+									<h2>Design  &amp; <br>stage</h2>
+									<p>At this stage, we prepare architectural schemes and structural designs. These are the transition point from a client's dream to practicability.</p>
 								</div>
 							</div>
 						</div>
@@ -268,15 +267,15 @@
 							<div class="col-md-6">
 								<div class="feature-post">
 									<span>03</span>
-									<h2>Construction Stage </h2>
-									<p>Execution and implementation of the design; initial construction begins.</p>
+									<h2>Construction &amp; <br>Stage</h2>
+									<p> We focus on implementing drawings into tangible products.</p>
 								</div>
 							</div>
 							<div class="col-md-6">
 								<div class="feature-post">
 									<span>04</span>
 									<h2>Completion &amp; <br>Post Construction</h2>
-									<p>When the structure/ project is completely finished, we now handover to the client. Upon an agreement, we can continue to manage the projct on behalf of the client. </p>
+									<p> The project is handed over to the client. </p>
 								</div>
 							</div>
 						</div>

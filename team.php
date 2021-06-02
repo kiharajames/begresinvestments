@@ -36,6 +36,18 @@
 		</section>
 		<!-- End banner-page-section -->
 
+        <!--page-depth-section 
+				================================================== -->
+			<section class="page-depth-section">
+				<div class="container">
+					<ul>
+						<li><a href="index.php">Home</a></li>
+						<li><a href="team.php">Team</a></li>
+					</ul>
+				</div>
+			</section>
+			<!-- End page-depth-section -->
+
 		<!-- team-section
 			================================================== -->
 		<section class="team-section2">
@@ -47,7 +59,7 @@
 				<div class="team-box">
 					<div class="row">
 
-					<div class="col-md-3 col-sm-6">
+					<div class="col-sm-4 col-sm-6">
     <div class="team-post">
         <div class="inner-team-post">
             <div class="team-gal">
@@ -68,11 +80,11 @@
     </div>
 </div>
 
-<div class="col-md-3 col-sm-6">
+<div class="col-sm-4 col-sm-6">
     <div class="team-post">
         <div class="inner-team-post">
             <div class="team-gal">
-                <img src="images/team/evans.jpg" alt="">
+                <img src="images/team/evans.JPG" alt="">
             </div>
             <h2>Evans Mawira Kinyua</h2>
             <span>Chief Operations Officer</span>
@@ -90,7 +102,7 @@
     </div>
 </div>
 
-<div class="col-md-3 col-sm-6">
+<div class="col-sm-4 col-sm-6">
     <div class="team-post">
         <div class="inner-team-post">
             <div class="team-gal">
@@ -111,8 +123,12 @@
         </div>
     </div>
 </div>
+</div>
+</div>
+<div class="team-box">
+<div class="row">
 
-<div class="col-md-3 col-sm-6">
+<div class="col-sm-4 col-sm-6">
     <div class="team-post">
         <div class="inner-team-post">
             <div class="team-gal">
@@ -133,12 +149,10 @@
     </div>
 </div>
 
-</div>
-</div>
-<div class="team-box">
-<div class="row">
 
-<div class="col-md-3 col-sm-6">
+
+
+<div class="col-sm-4 col-sm-6">
     <div class="team-post">
         <div class="inner-team-post">
             <div class="team-gal">
@@ -146,11 +160,11 @@
             </div>
             <h2>Paul Muoki</h2>
             <span>Head of Project management</span>
-            <p>Paul has a background in Construction project 
+            <p>Paul has a background in Construction project
                 management and is very passionate with project
-                management, Real Estate and allied. 
-                He has 3 years experience in the construction industry 
-                and is currently pursuing Masters in Construction Project Management. 
+                management, Real Estate and allied.
+                He has 3 years experience in the construction industry
+                and is currently pursuing Masters in Construction Project Management.
                 Professionalism, excellence, integrity and value centricity are his core values. </p>
             <!--<ul class="social-icons">
                 <li><a class="facebook" href="#"><i class="fa fa-facebook"></i></a></li>
@@ -162,14 +176,14 @@
     </div>
 </div>
 
-<div class="col-md-3 col-sm-6">
+<div class="col-sm-4 col-sm-6">
     <div class="team-post">
         <div class="inner-team-post">
             <div class="team-gal">
                 <img src="images/team/matthews.jpeg" alt="">
             </div>
-            <h2>Matthews Mucheru</h2>
-            <span>Team player</span>
+            <h2>Mathews Mucheru</h2>
+            <span>Construction and design lead</span>
             <p>Mathews Mucheru has a background in Construction Management and Transportation Engineering, with experience in upcoming technologies in the construction and transport sector. He is visionary and especially passionate about the application of disruptive technologies in improving social life and the economy. Having studied in China, he is focused on using his acquired knowledge and experiences to develop his society and country at large.
 He is also an enthusiastic farmer and has a keen interest in value addition of farm produce </p>
             <!--<ul class="social-icons">
@@ -212,7 +226,7 @@ He is also an enthusiastic farmer and has a keen interest in value addition of f
 						<!--<div class="col-sm-4">
 							<div class="about-post">
 								<h2>Our History</h2>
-								
+
 								<p>Begres solutions LLC is a solutions company that was founded in 2020 with its headquaters in Nairobi, Kenya.</p>
 							</div>
 						</div>-->
@@ -220,7 +234,7 @@ He is also an enthusiastic farmer and has a keen interest in value addition of f
 						<div class="col-sm-4">
 							<div class="about-post">
 								<h2>Our core values</h2>
-								
+
 								<p>Visionary | Intergrity | Innovation | Consumer focus | Long-term value</p>
 							</div>
 						</div>

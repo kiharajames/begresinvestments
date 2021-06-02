@@ -51,6 +51,18 @@
 		</section>
 		<!-- End banner-page-section -->
 
+		<!--page-depth-section 
+				================================================== -->
+				<section class="page-depth-section">
+				<div class="container">
+					<ul>
+						<li><a href="index.php">Home</a></li>
+						<li><a href="construction.php">Construction</a></li>
+					</ul>
+				</div>
+			</section>
+			<!-- End page-depth-section -->
+
 		<!-- construct-services-section
 			================================================== -->
 			<section class="construct-services-section">
@@ -68,33 +80,32 @@
 				<div class="owl-wrapper">
 					<div class="owl-carousel" data-num="4">
 
-						<div class="item">
+						<!--<div class="item">
 							<div class="services-post">
 								<img src="images/products/architecture.jpg" alt="">
 								<div class="services-content">
 									<h2><a>Architectural Plans</a></h2>
-									<!--<p>Donec nec justo eget felis facilisis fermentum. Aliquam porttitor mauris sit amet
+									<p>Donec nec justo eget felis facilisis fermentum. Aliquam porttitor mauris sit amet
 										orci.
 										Aenean
-										dignissim pellentesque felis.</p>-->
-									<!-- <ul class="serv-links">
+										dignissim pellentesque felis.</p
+									 <ul class="serv-links">
 										<li><a href="#">Aliquam tincidunt mauris eu risus</a></li>
 										<li><a href="#">Vestibulum auctor</a></li>
 										<li><a href="#">Nunc dignissim risus id metus</a></li>
-									</ul> -->
+									</ul> 
 								</div>
 							</div>
-						</div>
+						</div>-->
 
 						<div class="item">
 							<div class="services-post">
 								<img src="images/products/Conman.jpg" alt="">
 								<div class="services-content">
-									<h2><a>Civil & Structural Design</a></h2>
-									<!--<p>Donec nec justo eget felis facilisis fermentum. Aliquam porttitor mauris sit amet
-										orci.
-										Aenean
-										dignissim pellentesque felis.</p>-->
+									<h2><a>Industrial construction</a></h2>
+									<p>We have the technical staff and 
+										resources to handle to completion any industrial designed projects including and not limited to power plants, 
+										manufacturing plants, solar wind farms and refineries</p>
 									<!-- <ul class="serv-links">
 										<li><a href="#">Aliquam tincidunt mauris eu risus</a></li>
 										<li><a href="#">Vestibulum auctor</a></li>
@@ -104,33 +115,33 @@
 							</div>
 						</div>
 
-						<div class="item">
+						<!--<div class="item">
 							<div class="services-post">
 								<img src="images/products/manage.jpg" alt="">
 								<div class="services-content">
 									<h2><a>Construction & Project Management</a></h2>
-									<!--<p>Donec nec justo eget felis facilisis fermentum. Aliquam porttitor mauris sit amet
+									<p>Donec nec justo eget felis facilisis fermentum. Aliquam porttitor mauris sit amet
 										orci.
 										Aenean
-										dignissim pellentesque felis.</p>-->
-									<!-- <ul class="serv-links">
+										dignissim pellentesque felis.</p>
+									<ul class="serv-links">
 										<li><a href="#">Aliquam tincidunt mauris eu risus</a></li>
 										<li><a href="#">Vestibulum auctor</a></li>
 										<li><a href="#">Nunc dignissim risus id metus</a></li>
-									</ul> -->
+									</ul>
 								</div>
 							</div>
-						</div>
+						</div>-->
 
 						<div class="item">
 							<div class="services-post">
 								<img src="images/products/residential.jpg" alt="">
 								<div class="services-content">
 									<h2><a>Residential Construction</a></h2>
-									<!--<p>Donec nec justo eget felis facilisis fermentum. Aliquam porttitor mauris sit amet
-										orci.
-										Aenean
-										dignissim pellentesque felis.</p>-->
+									<p>We have the capacity to build dwelling spaces 
+										including bungalows, masionettes, villas, flats, 
+										apartment houses, townhomes, condos, 
+										nursing homes, dormitories and private garages of such spaces.</p>
 									<!-- <ul class="serv-links">
 										<li><a href="#">Aliquam tincidunt mauris eu risus</a></li>
 										<li><a href="#">Vestibulum auctor</a></li>
@@ -145,9 +156,10 @@
 								<img src="images/products/commercial.jpg" alt="">
 								<div class="services-content">
 									<h2><a>Commercial Construction</a></h2>
-									<!--<p>Donec nec justo eget felis facilisis fermentum. Aliquam porttitor mauris sit amet
-										orci.
-										Aenean dignissim pellentesque felis.</p>-->
+									<p>We are well equipped to build to completion, 
+										renovate and remodel spaces not limited to schools, 
+										offices, medical centers, sports facilities
+										 retail shopping centers and other institutional spaces.</p>
 									<!-- <ul class="serv-links">
 										<li><a href="#">Aliquam tincidunt mauris eu risus</a></li>
 										<li><a href="#">Vestibulum auctor</a></li>
