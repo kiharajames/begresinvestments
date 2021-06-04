@@ -1,5 +1,8 @@
 <!doctype html>
 
+<?php
+$page = 'p_management';
+?>
 
 <html lang="en" class="no-js">
 

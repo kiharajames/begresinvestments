@@ -17,20 +17,34 @@
 					<!-- Collect the nav links, forms, and other content for toggling -->
 					<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
 						<ul class="nav navbar-nav navbar-right">
-							<li><a class="active" href="index.php">Home</a></li>
-							<li><a href="design.php">Design </a></li>
-							<li><a href="construction.php">Construction </a></li>
-							<li><a href="management.php">Project Management </a></li>
+							<li><a <?php if ($page == "home") {
+								print'class="active"';
+							}?> href="index.php">Home</a></li>
+							<li><a <?php if ($page == "design") {
+								print'class="active"';
+							}?> href="design.php">Design </a></li>
+							<li><a <?php if ($page == "construction") {
+								print'class="active"';
+							}?> href="construction.php">Construction </a></li>
+							<li><a <?php if ($page == "p_management") {
+								print'class="active"';
+							}?> href="management.php">Project Management </a></li>
 
-							<li class="drop"><a href="#">Technology</a>
+							<li class="drop"><a <?php if ($page == "tech") {
+								print'class="active"';
+							}?> href="#">Technology</a>
 								<ul class="dropdown">
 									<li><a href="shule_vans.php">Shulevans</a></li>
 									<li><a href="urban_greens.php">Urbangreens</a></li>
 								</ul>
 							</li>
 
-							<li><a href="team.php">Team</a></li>
-							<li><a href="contact.php">Contact us</a></li>
+							<li><a <?php if ($page == "team") {
+								print'class="active"';
+							}?> href="team.php">Team</a></li>
+							<li><a <?php if ($page == "contact") {
+								print'class="active"';
+							}?> href="contact.php">Contact us</a></li>
 						</ul>
 					</div><!-- /.navbar-collapse -->
 				</div><!-- /.container-fluid -->

@@ -34,6 +34,10 @@ if (isset($_POST['submit_contact'])) {
 
 ?>
 
+<?php
+$page = 'contact';
+?>
+
 <!doctype html>
 
 

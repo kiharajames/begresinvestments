@@ -1,6 +1,8 @@
 <!doctype html>
 
-
+<?php
+$page = 'home';
+?>
 <html lang="en" class="no-js">
 <head>
 	<title>Exploring superior value | Begres investments</title>

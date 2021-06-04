@@ -1,5 +1,8 @@
 <!doctype html>
 
+<?php
+$page = 'construction';
+?>
 
 <html lang="en" class="no-js">
 

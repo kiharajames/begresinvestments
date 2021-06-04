@@ -1,5 +1,8 @@
 <!doctype html>
 
+<?php
+$page = 'design';
+?>
 
 <html lang="en" class="no-js">
 

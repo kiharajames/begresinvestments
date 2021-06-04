@@ -1,5 +1,8 @@
 <!doctype html>
 
+<?php
+$page = 'team';
+?>
 
 <html lang="en" class="no-js">
 

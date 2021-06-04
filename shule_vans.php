@@ -1,5 +1,8 @@
 <!doctype html>
 
+<?php
+$page = 'tech';
+?>
 
 <html lang="en" class="no-js">
 
